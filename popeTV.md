@@ -1747,12 +1747,12 @@ remind 차냥해
 
 # [포프TV 꾸준 인기영상 TOP5 (2019년)](https://www.youtube.com/watch?v=WykARqYkEjQ&list=PLW_uvsSPlijvMY-6Y-0I-bi4tlUFKEuFK&index=525&t=0s)
 
+[playlist](https://www.youtube.com/watch?v=ESU2IkFj9VM&list=PLW_uvsSPlijtAbrX87pH68VumQtbQ_AG-)
+
+- 간단 리뷰, 소감
 
 # [탑 프로그래머의 데스크 셋업](https://www.youtube.com/watch?v=HiB6lcpph3c&list=PLW_uvsSPlijvMY-6Y-0I-bi4tlUFKEuFK&index=526&t=0s)
 
-[playlist](https://www.youtube.com/watch?v=ESU2IkFj9VM&list=PLW_uvsSPlijtAbrX87pH68VumQtbQ_AG-)
-
-조회수 많이 뽑혀서 기분 좋다~
 
 # [단순 반복 업무 싫어하세요? 그럼 어떡하시려구요?](https://www.youtube.com/watch?v=cri10U7R0UQ&list=PLW_uvsSPlijvMY-6Y-0I-bi4tlUFKEuFK&index=527&t=0s)
 
