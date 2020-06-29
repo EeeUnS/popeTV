@@ -7,6 +7,7 @@ import urllib
 import re
 from selenium import webdriver as wd
 
+
 url = " https://www.youtube.com/playlist?list=PLW_uvsSPlijvMY-6Y-0I-bi4tlUFKEuFK"
 driver = wd.Chrome(executable_path="chromedriver.exe")
 driver.get(url)

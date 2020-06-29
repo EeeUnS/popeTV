@@ -209,6 +209,11 @@
 
 # [법감정: 상속세 폐지](https://www.youtube.com/watch?v=HvwGro2BUXc&list=PLW_uvsSPlijvMY-6Y-0I-bi4tlUFKEuFK&index=69&t=0s)
 
+1. 처음에 돈을 벌때 거기에 대한 세금을 내기때문에 이 돈에 대한걸 상속세를 걷는건 이중과세다.
+2. 근데 상속세가 왜 있는지는 이해가 가는게 법감정이 불법으로 돈을 벌었다는 것이 만연해있고, 한국의 경우는 부자들이 친일파들이 있기에 거기에 대한 세금을 못걷어서 상속세가 존재한다고 생각한다.
+3. 원천징수가 안되서 생기는 문제다. 이로인해서 깔끔한 사람들이 피해를 보는 경우가 생긴다.
+4. 원천징수가 되고 세금제도가 깔끔할 수록 상속세는 없어져야하는 쪽으로 가야한다고 생각한다.
+5. 미국은 세금회피가 굉장히 많기로 유명하고 조세제도도 복잡하고 상속세가 존재한다.
 
 # [C++에서 유니코드란 참](https://www.youtube.com/watch?v=kC-2LBpQmAA&list=PLW_uvsSPlijvMY-6Y-0I-bi4tlUFKEuFK&index=70&t=0s)
 
@@ -247,6 +252,12 @@
 
 
 # [함수 안 static 개체](https://www.youtube.com/watch?v=5aZOP1wIE9E&list=PLW_uvsSPlijvMY-6Y-0I-bi4tlUFKEuFK&index=82&t=0s)
+
+1. 마소 MVP 이번년에도 뽑혔다.
+2. Class자체가 가지는 상수를 표현할때 보통 private member로 선언하는 경우가있는데 함수안에 static 변수로 만들어서 반환해주게 짜는 사람도있다.(보통 싱글턴에서 이렇게 많이 해주는거같더라)
+   1. 코드찾기도 불편하고 C에서 oop 흉내내는거같다.
+   2. gcc에서 문제가 생겼다. : 처음 static문을 들어갔을때 메모리 할당에 실패를 한다. 2006,2009때도 이런 문제를 봤었다.
+   3. 걍 쓰지말자.
 
 
 # [감기 예방법](https://www.youtube.com/watch?v=Dws9PabHo2g&list=PLW_uvsSPlijvMY-6Y-0I-bi4tlUFKEuFK&index=83&t=0s)
@@ -333,6 +344,9 @@
 
 # [혼자 생각하기](https://www.youtube.com/watch?v=MFDz8uBIjhU&list=PLW_uvsSPlijvMY-6Y-0I-bi4tlUFKEuFK&index=106&t=0s)
 
+1. 다른 사람 말을 안들을수록 더 잘만드는 경우가 있더라.
+2. 혼자 생각할수록 제대로된 결론에 더 빨리 도달하더라
+3. 다른사람의 생각을 참고할수록 나만의 생각이 없어지기 때문에 오히려 제대로 안다는 경지에 다다르기 더 많은 시간이 걸린다.
 
 # [올바른 API 설계](https://www.youtube.com/watch?v=iDog_Vm_HAk&list=PLW_uvsSPlijvMY-6Y-0I-bi4tlUFKEuFK&index=107&t=0s)
 
@@ -394,6 +408,8 @@
 
 # [내가 원하는 염색약](https://www.youtube.com/watch?v=jUpCXFAbVwY&list=PLW_uvsSPlijvMY-6Y-0I-bi4tlUFKEuFK&index=124&t=0s)
 
+- 염색하려고 탈색 세번했다.
+- 일회용 염색약은 왜 안나오는 걸까?
 
 # [알파채널](https://www.youtube.com/watch?v=jtNrV-8cDEA&list=PLW_uvsSPlijvMY-6Y-0I-bi4tlUFKEuFK&index=125&t=0s)
 
@@ -731,6 +747,12 @@
 
 # [가치없는 토론](https://www.youtube.com/watch?v=gaoHsFMmpNI&list=PLW_uvsSPlijvMY-6Y-0I-bi4tlUFKEuFK&index=221&t=0s)
 
+ 올바른 토론의 자세
+
+1. 넌 어려서 잘 몰라, 너가 잘 몰라서 그래
+2. 이런 말하는 사람들이랑은 토론이 안된다.
+3. 지방대생이랑 연대 경영학과 후배랑 얘기중에 후배가 틀렸는데 자기 학벌을 내세우면서 자기가 맞다고 한 적이 있다.
+
 
 # [VISC = 자동 멀티스레딩?](https://www.youtube.com/watch?v=XuqWv5IC-pA&list=PLW_uvsSPlijvMY-6Y-0I-bi4tlUFKEuFK&index=222&t=0s)
 
@@ -974,6 +996,16 @@
 # [팬레터, 나의 로망, 프로그래밍 언어 제작](https://www.youtube.com/watch?v=RKuzVHVbZBs&list=PLW_uvsSPlijvMY-6Y-0I-bi4tlUFKEuFK&index=297&t=0s)
 
 
+1. 트위터로 남자분이 손글씨로 쓴 팬레터를 받았다
+2. 이 팬레터에 질문을 해줘서 여기에 대한 대답이 이번 영상이다.
+3. 프로그래머로서의 로망
+   1. 로망은 잘 모르겠고 내가 하고싶었던 골은 있다
+   2. 내가 하고있는것에서 최고가되는것이 내가 원하는것이다
+   3. 그래서 내 로망은 컴퓨터를 이해하는 것이다
+4. 나만의 프로그래밍 언어를 만드는것에 대한 생각
+   1. 만들고싶다는 생각을 한번 해봤는데 루비, C#, 러스트란 언어를 보고 나는 이런걸 창의적으로 만드는 사람이 아닌거같아서 직접 만들어야겠다는 생각을 접었다 사이드프로젝트 중에 중간언어로 파싱해주는 컴파일러 비슷한걸 만든적은있다
+   2. 정규식쓰지말란 영상에서 컴파일러만 알았어도 이런소리 안했을거란 댓글에 컴파일러 나만큼은 해봤니라는 얘기를 해주고싶다.
+
 # [버그 만드는 걸 두려워하지 마라](https://www.youtube.com/watch?v=hjE2vWa0BWY&list=PLW_uvsSPlijvMY-6Y-0I-bi4tlUFKEuFK&index=298&t=0s)
 
 
@@ -985,6 +1017,11 @@
 
 
 # [닥커, Azure, AWS](https://www.youtube.com/watch?v=rweZ2NvIM0Q&list=PLW_uvsSPlijvMY-6Y-0I-bi4tlUFKEuFK&index=299&t=0s)
+
+
+
+
+
 
 
 # [나는 금수저? 흙수저?](https://www.youtube.com/watch?v=gaG5LfNsBHc&list=PLW_uvsSPlijvMY-6Y-0I-bi4tlUFKEuFK&index=300&t=0s)
@@ -1208,6 +1245,9 @@
 
 # [멘토](https://www.youtube.com/watch?v=SQmSI82vbIM&list=PLW_uvsSPlijvMY-6Y-0I-bi4tlUFKEuFK&index=369&t=0s)
 
+1. 학교에서 멘토 시스템이 있는데 어떤 멘토는 도움도 안되는데 학생들한테 주말에 학교와서 같이 스카이프 걸라고하더라 
+2. 나에게는 나보다 좋은 실력을 가진 사람이 무슨말을 하던간에 다 선의의 경쟁자였다.
+3. 전체적으로 실력있는 엔지니어가 많아졌으면 좋겠다.
 
 # [다수처럼 보이는 소수](https://www.youtube.com/watch?v=TFKbsdL64ZQ&list=PLW_uvsSPlijvMY-6Y-0I-bi4tlUFKEuFK&index=370&t=0s)
 
@@ -1302,10 +1342,6 @@
 
 
 # [비트코인과 세금](https://www.youtube.com/watch?v=ofSrplsHXq4&list=PLW_uvsSPlijvMY-6Y-0I-bi4tlUFKEuFK&index=394&t=0s)
-
-
-1. 미국의 비트코인 세금 방식과 캐나다의 비트코인 세금 방식
-2. 내용 많음
 
 
 # [프로그래밍 첫 입문 전자책](https://www.youtube.com/watch?v=0Hbq3En8xvw&list=PLW_uvsSPlijvMY-6Y-0I-bi4tlUFKEuFK&index=395&t=0s)
@@ -1414,6 +1450,12 @@
 
 # [새 프로그래밍 교육기관을 준비 중입니다](https://www.youtube.com/watch?v=VpgFRPOVzCA&list=PLW_uvsSPlijvMY-6Y-0I-bi4tlUFKEuFK&index=429&t=0s)
 
+- 한국 갔다와서 만드는 첫번째 영상(한빛미디어에서 강연하고 지디넷에서 인터뷰를했음)
+- Proof of Concept University 줄여서 POCU
+- BCIT에서 수업한 자료 들고 C++을 제일 먼저 수업을 열거다.
+- 웨이팅리스트를 만들었는데 벌써 100명정도가 들어왔더라.
+
+
 
 # [포트폴리오의 가치 및 의미](https://www.youtube.com/watch?v=rquI6w4gLIs&list=PLW_uvsSPlijvMY-6Y-0I-bi4tlUFKEuFK&index=430&t=0s)
 
@@ -1497,6 +1539,15 @@
 
 
 # [길빵, 흡연권, 에어컨 틀 권리](https://www.youtube.com/watch?v=WpDfoyy7tEk&list=PLW_uvsSPlijvMY-6Y-0I-bi4tlUFKEuFK&index=457&t=0s)
+
+
+1. 옛날에는 너도 나도 흡연을 했으니 아무데서나 흡연을 했는데 이제는 너도 나도 비흡연자인데 피해를 끼치니 아무데서나 흡연을 못한다.
+2. 이와 비슷하게 에어컨도 나와 주위가 에어컨이 없는데 피해를 끼치니 너도 켜면 안된다라는 있었다.
+
+흡연자들이 담배를 태움으로써 다른사람에게 주는 건강상 피해나 흡연후 길가에 담배꽁초를 버리는 낮은 시민의식과 같은 세부사항이 아니라 (제 생각에) 포프님께서 말하고자 하는것은 흡연권 뿐만 아니라, 우리가 무의식적으로 괜찮다고 생각하는 권리들 마저도 다른사람들의 권리를 침해하는 성격이 있고,
+그에 대한 법률 또는 규칙은 다수에게 유리한 쪽으로 흘러가는 경향이 있다. 하지만 그 정도가 소수의 권리를 근본적으로 차단하는 쪽으로 가서는 안된다.
+소수 또한 다수의 입장에서, 다수 또한 소수의 입장에서 생각해보고 서로 양보하면 더불어 행복한 사회가 되지 않을까 ? 정도 인듯합니다
+(김창민님 댓글)
 
 
 # [포프티비 전자책 증정 이벤트](https://www.youtube.com/watch?v=lN84vHby0cs&list=PLW_uvsSPlijvMY-6Y-0I-bi4tlUFKEuFK&index=458&t=0s)
@@ -1761,5 +1812,13 @@ remind 차냥해
 
 
 # [push 기반 인생 자동화 (로또 편)](https://www.youtube.com/watch?v=tdzM65JCWfE&list=PLW_uvsSPlijvMY-6Y-0I-bi4tlUFKEuFK&index=529&t=0s)
+
+
+
+
+
+
+
+
 
 
