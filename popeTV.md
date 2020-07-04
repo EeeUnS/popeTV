@@ -744,6 +744,17 @@
 
 # [가상/증강 현실의 미래](https://www.youtube.com/watch?v=JzZk6JacRtQ&list=PLW_uvsSPlijvMY-6Y-0I-bi4tlUFKEuFK&index=220&t=0s)
 
+1. VR은 미래가아니다
+   1. 사회적으로 받아들이기 힘들다
+   2. 매일매일 쓸 수있을 정도로 다양하지 않다.
+   3. 이미 있던 기술을 조금 개선시켜서 다시 부흥시키려고 하는것뿐이다.
+   4. 그럼에도 분명히 용도는 있다.
+2. 3D TV도 예전에 밀었는데 지금은 안쓴다. 
+3. 20년전쯤에 게임이 영화산업을 대체할수있다란 얘기도 나돌았다
+4. VR은 하이프 버즈워드다.
+5. AR은 미래다.
+6. BMW에 AR이 달려있다.
+7. AR은 VR을 포함한다.
 
 # [가치없는 토론](https://www.youtube.com/watch?v=gaoHsFMmpNI&list=PLW_uvsSPlijvMY-6Y-0I-bi4tlUFKEuFK&index=221&t=0s)
 
@@ -858,6 +869,11 @@
 
 
 # [주석과 가독성](https://www.youtube.com/watch?v=IgvNCnb2MzM&list=PLW_uvsSPlijvMY-6Y-0I-bi4tlUFKEuFK&index=256&t=0s)
+
+1. 주석은 안적는게 원칙이다
+2. 코드가 이해가 안갈경우 주석을 단다
+3. 내부적으로 코드를 볼수없는 public api쪽에 주석을 달도록한다.
+4. 문서화보단 코드안에 주석을 넣는걸 선호한다.
 
 
 # [정규식은 이제 그만](https://www.youtube.com/watch?v=CmcBPvsxcKU&list=PLW_uvsSPlijvMY-6Y-0I-bi4tlUFKEuFK&index=257&t=0s)
@@ -975,6 +991,11 @@
 # [좀비 사태에 대한 대비](https://www.youtube.com/watch?v=mIGD3HQoqTU&list=PLW_uvsSPlijvMY-6Y-0I-bi4tlUFKEuFK&index=293&t=0s)
 
 
+1. 룸메가 집에서 맨날 발차기하고 다님ㅋㅋ 혹시 모를 일에 대비하기위해서 준비하는거임.(좀비사태나 운석이 떨어질수준)
+2. 암기도 좋은 점이 많다 캐나다애들은 구구단도 안외운 애들이 많더라
+3. 몸에 베이면 한동안 안해도 다시 돌아오는데 문제가 없다.
+4. 습관들이기와 같은 얘기
+
 # [가상현실 컨텐츠에서 주의할 점](https://www.youtube.com/watch?v=A6NM9d1WP3E&list=PLW_uvsSPlijvMY-6Y-0I-bi4tlUFKEuFK&index=294&t=0s)
 
 
@@ -1050,6 +1071,12 @@
 
 # [수도쿠 게임](https://www.youtube.com/watch?v=wZYQfYKqVjM&list=PLW_uvsSPlijvMY-6Y-0I-bi4tlUFKEuFK&index=308&t=0s)
 
+1. 난 퍼즐게임을 좋아한다.
+2. 10년 전쯤에 수도쿠 게임을 인디로 만들어서 몇백만원을 번 적 있다.
+3. 리서치에 근거해 시간이 정해져잇는 거의 무제한 수도쿠 게임을 만들었다.
+4. 안드로이드 넘어올때 수도쿠를 옮겨왔으면 괜찮지않았을까 싶은데 너무 바빴었다
+5. 자마린이 나오고나서부터 이게 괜찮아서 지금 안드로이드에 출시를 했다.
+6. IOS도 내려고 생각중(출시함)
 
 # [최악의 직원](https://www.youtube.com/watch?v=VCX5tPdGpmg&list=PLW_uvsSPlijvMY-6Y-0I-bi4tlUFKEuFK&index=309&t=0s)
 
@@ -1140,6 +1167,22 @@
 
 # [회사운영 자동화](https://www.youtube.com/watch?v=xMai8B-ZfUQ&list=PLW_uvsSPlijvMY-6Y-0I-bi4tlUFKEuFK&index=338&t=0s)
 
+1. 예전에 다녔던 회사중에 게임스튜디오 3명이 창업잔데.
+2. 작은회사를 어떻게 효율적으로 돌릴지 많이 배워왔다
+3. 옛날에 비개발자들이 들어가서해야했던 일들을 클라우드 기반으로 자동화 시켰더라.
+4. 나도 회사를 돌리는데 회계쪽이나 세금제도는 나한테 도움이 될거란 생각에 조금씩 배워가면서 직접 해가고있다.
+   1. 작년 회사설립부터 세금보고까지 모두 내가했다.인사부,페이롤,부가가치세, 고용보험, 상해보험, 영수증 처리 등등
+   2. 회계사이런 직종은 결국 없어질거같다.
+   3. 법인 설립할때, 회사를 설립할때 필요한 정형화된거를 처리해주는 회사가 있다  캐나다 달러로 570불정도 주고 처리했다.
+   4. 장부정리 : 이걸 공짜로 해주는 프로그램을 찾았다. Wave Accounting
+   5. 세금보고 : 회계사한테 맡기려니까 100만원정도 들더라, 그래서 적당한 값을 주고 프로그램을 샀다. 세금신고할때마다 5,6만원정도를 내고 처음할때 8시간 정도 들였다.
+   6.  문서공유 : 구글docs
+   7.  이메일 : gmail apps, 마소mvp라서 오피스 365가 공짜로
+   8.  커뮤니케이션 : slack
+   9.  프로젝트 관리 : trello
+   10. 코드 집어넣는거 : 깃랩, 비주얼스튜디오 온라인
+5. 이 부분이 한국에서 정용화가 안되어있다면 정형화를 하는것만으로도 굉장히 미움을 많이 받을 수 있고 돈을 많이 벌 수도있다.
+6. 실리콘밸리에서 인사부 자동화하는 프로그램으로 엄청 돈을 번 적이 있다.
 
 # [나는 내성적이다](https://www.youtube.com/watch?v=ujBdBg-oh3c&list=PLW_uvsSPlijvMY-6Y-0I-bi4tlUFKEuFK&index=339&t=0s)
 
@@ -1167,6 +1210,18 @@
 
 
 # [A급 B급 인재](https://www.youtube.com/watch?v=V5N19Plazfk&list=PLW_uvsSPlijvMY-6Y-0I-bi4tlUFKEuFK&index=346&t=0s)
+
+1. 스티브 잡스는 A급 개발자만 고집을 했다고한다.
+2. IT에서 A급과 B급의 임팩트의 차이는 1:100이다.
+3. 나는 1000배까지 나는거같다.
+4. A급은 책임감과 능력을 둘다 갖춘사람이다.
+5. 노예처럼 일하는것도아니고 회사일에 열정을 가지란 건아니다.
+6. A급과 B급 봉급차이가 100배가 나진않는다 잘나야 1.5, 특이해야 5배
+7. 편하게 살고싶으면 엔지니어가 되자
+8. 취미로 할거면 별로 상관은 없다.
+   1. 친구따라 오디션따라갔다가 기타 쳐보래서 기타 쳤는데 유명한 기타리스트가 "그래 열심히 쳐"하고 넘어갔었던 적이있다
+
+
 
 
 # [왜이리 자격증에 목을 매는가](https://www.youtube.com/watch?v=U-Pe7REA8RE&list=PLW_uvsSPlijvMY-6Y-0I-bi4tlUFKEuFK&index=347&t=0s)
@@ -1435,6 +1490,11 @@
 
 # [그거 돈은 되니?](https://www.youtube.com/watch?v=hQxzlMoWB2A&list=PLW_uvsSPlijvMY-6Y-0I-bi4tlUFKEuFK&index=424&t=0s)
 
+1. 나는 뭔갈할때 그거 돈되니란 말을 많이 사람들에게 들어봤다.
+2. 포프티비도 처음에 하지말란 사람들 많았었다.
+3. 무엇인가를 할때 적을지라도 돈이 되는질 계속 생각해보고 돈이 되는걸 하자.
+4. 남들이 돈 안된다고 나간 스도쿠도 몇 백 만원은 벌었었다.
+5. 아주 조금이라도 돈을 버는것이 목적이 되지않으면 끝까지 가는경우가 힘들다.
 
 # [컴퓨터는 추상적으로 돌지 않는다](https://www.youtube.com/watch?v=PUd6LCJZlJo&list=PLW_uvsSPlijvMY-6Y-0I-bi4tlUFKEuFK&index=425&t=0s)
 
@@ -1446,6 +1506,14 @@
 
 
 # [완벽한 건 없다](https://www.youtube.com/watch?v=EM0n5S5A0Hk&list=PLW_uvsSPlijvMY-6Y-0I-bi4tlUFKEuFK&index=428&t=0s)
+
+- 나는 완벽주의자란 얘기를 많이 듣는다.
+- 완벽하다는것은 객관적이다. 세상에 완벽한건 없다. 
+- 내가 본 완벽주의자에 가까운 사람은 자신을 완벽주의자라 하지않고 그렇게 되려고 노력한다는 사람이었음.
+- BCIT 다닐때 가르쳤던 교수 중에 한분이 이렇게 얘기를 하셨던 분이 있었는데, 그 누구보다 완벽주의자에 가까웠다.
+- 아메리칸 파이란 영화를 보고 이렇게 생각하는 계기가 생겼다.
+   - 두 커플이 완벽한 순간에 xx를 하려고 타이밍을 잡다가 결국에 XX하고 남자애가 "세상에 완벽한건 없어"라고 말한걸 보고 느꼈다.
+- 자신을 완벽주의자라고 하는 사람들은 별로 그렇지 못한 사람들이었다.
 
 
 # [새 프로그래밍 교육기관을 준비 중입니다](https://www.youtube.com/watch?v=VpgFRPOVzCA&list=PLW_uvsSPlijvMY-6Y-0I-bi4tlUFKEuFK&index=429&t=0s)
@@ -1518,6 +1586,13 @@
 
 
 # [내가 스마트폰을 쓰는 이유](https://www.youtube.com/watch?v=5WXZxfMCT0w&list=PLW_uvsSPlijvMY-6Y-0I-bi4tlUFKEuFK&index=450&t=0s)
+
+- 이메일때문에 스마트폰을 쓰기 시작했다.
+- 맛폰이 굉장히 발전을 많이하면서 편리해졌다.
+- 나에게 있어 휴대폰의 목적은 개인비서
+- 단순히 엔터테인먼트용으로 휴대폰이 쓰이는게 좀 아쉽다.
+- 이런 생각이 들면서 또 앱 개발같은 생각을 많이했다.
+  - 하고자 했던게 인프라가 부족하고, 수동적으로 해야하는 것들이 많았고 그래서 접었다.
 
 
 # [연령대별 해야할 일](https://www.youtube.com/watch?v=ya_irhS28s8&list=PLW_uvsSPlijvMY-6Y-0I-bi4tlUFKEuFK&index=451&t=0s)
@@ -1744,6 +1819,19 @@ remind 차냥해
 
 
 # [올바른 변수 이름 짓는 법](https://www.youtube.com/watch?v=ZtkIwGZZAq8&list=PLW_uvsSPlijvMY-6Y-0I-bi4tlUFKEuFK&index=508&t=0s)
+
+댓글 참고
+- 변수이름에 명사를쓰며 동사를 쓰지않는다
+- 단수형 복수형 구분하자 
+- 전치사를 굳이 써서 변수이름이 길어질 필요가 없다
+- 간결하고 읽기 편해야한다. 
+- 남들이 어덯게 쓰는지 많이 보고 배워라 감사합니다
+- 단수라고 해서 a를 붙이지 않는다.
+- 복수를 OOOList도 쓰지만 OOOs를 더 많이쓴다.
+- 전치사가 들어가는 의미인 경우 해당하는 어휘를 생각해서 대체한다.
+- 좋은 코드는 좋은 오픈소스 참고
+
+
 
 
 # [그래픽 프로그래머의 모니터 색감을 어떻게 설정하는가?](https://www.youtube.com/watch?v=eJCDVnzyXoU&list=PLW_uvsSPlijvMY-6Y-0I-bi4tlUFKEuFK&index=509&t=0s)
