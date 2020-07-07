@@ -353,6 +353,14 @@
 
 # [근황, 잡담, 조지아테크 MOOC](https://www.youtube.com/watch?v=KvZJCTCwR8Y&list=PLW_uvsSPlijvMY-6Y-0I-bi4tlUFKEuFK&index=108&t=0s)
 
+1. 물리책 번역하고있다.
+2. 그사이에 새 회사들어갔는데 야근 빡세게 돌았다.
+3. 아직못한게 두개잇는데 벤쿠버에있는 인디게임을 포팅해주는게 있다. 주말에 해서 끝낼것.
+4. 프로젝트 D 번역해주는거는 바빠서 일정을 2주정도 늦췄다.
+5. 북미취업했다는 사람이 연락이 또 왔다
+6. 프로젝트 D를 끝내주고나면 조지아텍 대학원 온라인 석사를 시작한다
+
+
 
 # [야근과 자기발전](https://www.youtube.com/watch?v=UlqNxG95CRE&list=PLW_uvsSPlijvMY-6Y-0I-bi4tlUFKEuFK&index=109&t=0s)
 
@@ -431,9 +439,16 @@
 
 # [개밥 먹는 프로그래머](https://www.youtube.com/watch?v=8I_Gbr3O0ug&list=PLW_uvsSPlijvMY-6Y-0I-bi4tlUFKEuFK&index=131&t=0s)
 
+1. 뛰어난 프로그래머는 언제나 자기가 실수할수있다는걸 알고 인정이 빠르다.
+2. Eating your own dog food
+3. 자기가 짠 코드에 책임을 지자.
+
 
 # [[근황/잡담] 회사정치, 조지아테크 중간고사](https://www.youtube.com/watch?v=cIlGimnfn_U&list=PLW_uvsSPlijvMY-6Y-0I-bi4tlUFKEuFK&index=132&t=0s)
 
+1. 회사내에 정치가 있는데 짜증난다.
+2. 회사내에 말과 행동이 안 일치하는 여러가지가 있었는데 정리가 됐다.
+3. 조지아텍 중간고사 봤는데 중간고사는 어느정도 봤다.
 
 # [[게임소개] Project D Online](https://www.youtube.com/watch?v=zvdVGrAb5-c&list=PLW_uvsSPlijvMY-6Y-0I-bi4tlUFKEuFK&index=133&t=0s)
 
@@ -443,6 +458,9 @@
 
 # [가족(축)같은 회사?](https://www.youtube.com/watch?v=yfeEljxOa3I&list=PLW_uvsSPlijvMY-6Y-0I-bi4tlUFKEuFK&index=135&t=0s)
 
+1.  가족같은 회사가아니고 다 ㅈ같은 회사
+2. 핑계대려고 개소리로 많이 쓴다.
+3. 진짜 가족이면 경영권이라도 넘어오지..
 
 # [C# XML Serializer 메모리 누수](https://www.youtube.com/watch?v=L3iL02vWBw4&list=PLW_uvsSPlijvMY-6Y-0I-bi4tlUFKEuFK&index=136&t=0s)
 
@@ -455,6 +473,9 @@
 
 # [쉬프트키 대신 더블 탭을](https://www.youtube.com/watch?v=75cCAnbFRP4&list=PLW_uvsSPlijvMY-6Y-0I-bi4tlUFKEuFK&index=139&t=0s)
 
+1. 쉬프트 불편하다.
+2. 더블탭 정말 편하다
+3. pc에도 이런 방식을 쓸 수 있을까?
 
 # [디버깅은 해봤니?](https://www.youtube.com/watch?v=vkMuFXeUAYA&list=PLW_uvsSPlijvMY-6Y-0I-bi4tlUFKEuFK&index=140&t=0s)
 
@@ -515,6 +536,13 @@
 
 
 # [그녀를 떠나렴](https://www.youtube.com/watch?v=Xh-3XZhEaMw&list=PLW_uvsSPlijvMY-6Y-0I-bi4tlUFKEuFK&index=158&t=0s)
+
+1. 곡 썼음
+2. 친구 한명한테 모든 어레인지를 보내서 평가를 받음.
+3. 항상 이어폰 꽂고 다녔는데 이 곡 쓰고나서 음악을 안 듣고다닌다.
+4. 나는 영감이란걸 받아야 곡을 쓸줄알았는데 쓰자고생각하면 쓸수있다는걸 깨달음.
+5. 칭찬 많이받았다.
+
 
 
 # [내가 꿈꾸던 회사](https://www.youtube.com/watch?v=wC-GErmtVw8&list=PLW_uvsSPlijvMY-6Y-0I-bi4tlUFKEuFK&index=159&t=0s)
@@ -663,6 +691,12 @@
 
 
 # [Code Contracts](https://www.youtube.com/watch?v=hqUkfgU4wjk&list=PLW_uvsSPlijvMY-6Y-0I-bi4tlUFKEuFK&index=200&t=0s)
+
+
+1. excpetion보다는 assert박는 사람들 코드가 더 안정적이더라.
+2. 닷넷에서 code contracts라는게 있더라. 근데 너무 불편하다.
+3. 2~3년 안엔 쓸만하지않을까?
+4. static analyse도 비슷하게 처음에나왓을때 되게 힘들었었다. 지금은 버튼한번이면 됨
 
 
 # [생긴대로 사는법](https://www.youtube.com/watch?v=t4jocIEKEEM&list=PLW_uvsSPlijvMY-6Y-0I-bi4tlUFKEuFK&index=201&t=0s)
@@ -855,6 +889,8 @@
 
 # [주인님 자격증이 나오다](https://www.youtube.com/watch?v=-hoi35nZIcs&list=PLW_uvsSPlijvMY-6Y-0I-bi4tlUFKEuFK&index=251&t=0s)
 
+1. 조지아텍 졸업함
+2. 들은 수업 리뷰,추천
 
 # [게임직군: UI와 툴스 프로그래머](https://www.youtube.com/watch?v=i1llUVM0DXw&list=PLW_uvsSPlijvMY-6Y-0I-bi4tlUFKEuFK&index=252&t=0s)
 
@@ -895,6 +931,12 @@
 
 
 # [플로우는 하나만](https://www.youtube.com/watch?v=GvtRithqkiQ&list=PLW_uvsSPlijvMY-6Y-0I-bi4tlUFKEuFK&index=263&t=0s)
+
+1. 게임 개발에 있어서 내부개발용으로 초반 로딩같은걸 줄이기위해서 생략하는등 플로우를 여러개를 만든 회사를 봤다.
+2. 그 버튼누르는게 귀찮으면 스크립트로 자동화하자
+3. 이런걸로 인해서 나중에 알아차린 버그들은 찾기어렵고 프로젝트 관리에 차질이 생긴다.
+4. 플로우는 하나만 만들자.
+
 
 
 # [랩노트 원노트](https://www.youtube.com/watch?v=5BUx6Hng008&list=PLW_uvsSPlijvMY-6Y-0I-bi4tlUFKEuFK&index=264&t=0s)
@@ -950,6 +992,12 @@
 
 
 # [인터넷과 지식인](https://www.youtube.com/watch?v=jBY410dyY4s&list=PLW_uvsSPlijvMY-6Y-0I-bi4tlUFKEuFK&index=280&t=0s)
+
+
+- 인터넷이 발달할때 , 빌게이츠는 정보가 재산이다.라고 함 도 다른 사람들은 정보가 많이 퍼지면서 모든사람의 지적수준이 올라갈거다 라고함.
+- 근데 인터넷이 자기의 잘못된 주장을 강요하는 용도로 쓰인다.
+- 인터넷이 발달하면서 잘못된 정보를 더 굳건하게 믿을수있는 발판이 마련되고 심해지고있다.
+- 올바른 정보를 판단하는 능력 판단하는 사람을 보는 능력을 기르는게 중요하다.
 
 
 # [북미취업가이드북 2판 출시](https://www.youtube.com/watch?v=Qkjsrl329xg&list=PLW_uvsSPlijvMY-6Y-0I-bi4tlUFKEuFK&index=281&t=0s)
@@ -1424,6 +1472,11 @@
 
 # [안에서만 새는 바가지?](https://www.youtube.com/watch?v=oq7MKQVShr0&list=PLW_uvsSPlijvMY-6Y-0I-bi4tlUFKEuFK&index=402&t=0s)
 
+1. 북미취업하려는 사람중에서 실상 아무노력도 하지않으면서 뭔가 하면 될거야라고 라고 왔다가 쓸데없이 시간만 버리고 간 사람들이 많다
+2. 아무것도 안해놓고 물이 나빴다라는 핑계대지말자.
+3. talented~ 재능이 있는 / 사람앞에 붙으면 졸라 거짓말 잘하는 ex) talented pope : 졸라거짓말 잘하는 포프
+4. 자기가 새는 바가지가 아닌지 한번 객관적으로 판단해보자.
+
 
 # [코딩스탠다드:  생성자,  setter, getter](https://www.youtube.com/watch?v=OOpFpla8NXs&list=PLW_uvsSPlijvMY-6Y-0I-bi4tlUFKEuFK&index=403&t=0s)
 
@@ -1538,6 +1591,13 @@
 
 
 # [미안해, 고마워](https://www.youtube.com/watch?v=ECCnnZku-kY&list=PLW_uvsSPlijvMY-6Y-0I-bi4tlUFKEuFK&index=434&t=0s)
+
+- 사회에서 미안하다는 말을 굉장히 많이 한다.
+- 내가 뭔가 피해를 들었을때 미안하다라는 말을 들으면 뭔가 화를 낼 수 없는 코너로 몰리는 느낌이 들었다.
+- 나는 미안하다 고맙다는 말을 잘 못했었는데 생각을 바꿨다.
+- 미안하다거나 고맙다는 말을 할 때가 되면은 반드시 하자.
+- 미안하다는 말을 할 때 고맙다는 말을 대신할 수 있으면 고맙다는 말을 하자 그게 상대방한테도 좋은거같다.
+
 
 
 # [GitHub 인수와 GitLab 으로의 이주](https://www.youtube.com/watch?v=Z1zgMMw0YWw&list=PLW_uvsSPlijvMY-6Y-0I-bi4tlUFKEuFK&index=435&t=0s)
@@ -1790,6 +1850,11 @@ remind 차냥해
 
 # [프로그래머를 위한 수학](https://www.youtube.com/watch?v=kjB10cuweTM&list=PLW_uvsSPlijvMY-6Y-0I-bi4tlUFKEuFK&index=498&t=0s)
 
+1. 수학 이번에 강의 준비한다고 엄청 머리 굴렸다.
+2. 진짜 프로그래머를 위한 수학을 준비하려고 많이 노력했다.
+3. 증명을 뺐다. 컴퓨터의 숫자 체계를 많이 넣었다.
+4. 퀴즈,코딩 다 준비했다.
+5. 그렇게 나온 강의가 주위 사람들이 칭찬 많이 해주더라
 
 # [프로그래밍 언어가 이렇게 단순할 수가?](https://www.youtube.com/watch?v=erEP75JVrbc&list=PLW_uvsSPlijvMY-6Y-0I-bi4tlUFKEuFK&index=499&t=0s)
 
