@@ -274,6 +274,10 @@
 
 # [올바른 보너스 체계](https://www.youtube.com/watch?v=OHydjT3dGw0&list=PLW_uvsSPlijvMY-6Y-0I-bi4tlUFKEuFK&index=87&t=0s)
 
+- 프로젝트 별로 보너스 체계가 돌아갈때는 여러가지 단점이있다.
+  - 도전적인 첫 프로젝트에 있는 실력있는 사람들은 보너스를 많이 못받아가가고 편하게 후속작 프로젝트만 하는 팀만 계속 보너스를 타가는 경우가있다.
+  - 팀별로 사이가 안 좋아진다.
+- 회사전체에 보너스를 주는게 맞다고 생각한다.
 
 # [변호사보다 잘 버는 프로그래머](https://www.youtube.com/watch?v=jez9EHEgSYk&list=PLW_uvsSPlijvMY-6Y-0I-bi4tlUFKEuFK&index=88&t=0s)
 
@@ -302,6 +306,11 @@
 
 # [유토피아](https://www.youtube.com/watch?v=cRnITB0Y0nk&list=PLW_uvsSPlijvMY-6Y-0I-bi4tlUFKEuFK&index=94&t=0s)
 
+- 캐나다에서 대학 처음갔을때 백인친구들이 나한테 extreamly cynicaly positive라고 해주더라
+- 내가 생각하는 유토피아는 내가 잘하고 내가 좋아하는것을 정말 열심히하고 잘하자라는것, 내가 잘 못하는 부분은 다른 사람에게 부탁해서 해결한다.
+- 나는 나 잘하는거 잘하고 그걸로 내 일 잘하고, 내 주변 사람들이 내 능력이 필요할때 도와주고 주변 사람들은 자기가 잘하는 거 잘하고 내가 그 능력이 필요할때 도와줄수있는 것
+- 변화에는 바텀업,탑다운 두가지 경우가있는데 바텀업 방식으로 바라는게 적어도 내 주위는 바뀌니 나에게 도움이 된다.
+- 나는 그렇게 살았고 많은 사람들이 그렇게 살았으면 좋겠다.
 
 # [북미취업 가이드 그 후](https://www.youtube.com/watch?v=dVR_hhqrtHo&list=PLW_uvsSPlijvMY-6Y-0I-bi4tlUFKEuFK&index=95&t=0s)
 
@@ -485,6 +494,11 @@
 
 # [쓸데없는 인터페이스](https://www.youtube.com/watch?v=tL3sB6qaIoM&list=PLW_uvsSPlijvMY-6Y-0I-bi4tlUFKEuFK&index=142&t=0s)
 
+- 아무리 좋다고 해도 실제 코드가 읽기어렵고 디버깅이 어려우면 그건 잘못된 practice라고 생각한다.
+- 인터페이스로 인해서 코드를 직접 찾아서 읽기도 불편하다.
+- 라이브러리를 만들어서 외부사람들에게 팔때 쓸 인터페이스가 맞고
+- 내부에서 쓰는것이고, 게임이나 웹쪽 처럼 요구사항이 자주 바뀌는것은 인터페이스가 독이다.
+- 
 
 # [불쌍한 게임기획자](https://www.youtube.com/watch?v=jkETXjE4hSs&list=PLW_uvsSPlijvMY-6Y-0I-bi4tlUFKEuFK&index=143&t=0s)
 
@@ -589,6 +603,14 @@
 
 # [수많은 전문가](https://www.youtube.com/watch?v=w60_tPs2fL4&list=PLW_uvsSPlijvMY-6Y-0I-bi4tlUFKEuFK&index=173&t=0s)
 
+- 수재가 천재를 이긴다를 올렸을때 악플많이 달릴줄알았다.
+- 근데 좋은 댓글많더라.
+- 그 내용의 추가적인 내용이다.
+- 소프트웨어 아키텍트 코스들을때 이 강사도 나랑 많이 비슷한 부분이 있더라
+- 이 사람이 말한게 전문가는 생각하는것보다 적은 수가 아니다
+- 전문가가 되는게 쉬운건 아니지만 노력하면 될 수 있다. 생각보다 전문가는 곳곳에 많이 있다. 라는 말을 했다.
+- 나는 굉장히 적다고 생각했는데 새롭게 보게됐다.
+- 물론 머리가 굉장히 나쁘면 노력해봐야 안된다.
 
 # [[게임소개] Brain It On](https://www.youtube.com/watch?v=I0XpLfDxZbM&list=PLW_uvsSPlijvMY-6Y-0I-bi4tlUFKEuFK&index=174&t=0s)
 
@@ -742,6 +764,13 @@
 
 # [scope 지정 코딩스타일](https://www.youtube.com/watch?v=gfOpMA7eIGM&list=PLW_uvsSPlijvMY-6Y-0I-bi4tlUFKEuFK&index=208&t=0s)
 
+- 예전에는 화면이작아서 한 화면에볼수있는 줄이 너무 적어서 {를 if옆에 붙였었다.
+- 나는 {를 새줄로 쓴다
+  - {}를 같은 칸에 쓰는게 패턴인식으로 사람이 인식하기 편하기때문.
+  - 나한테 익숙하다라고 우기는건 이기적인거다.
+  - 터미널에서 작업하는 사람은 한줄에 {써도 ㅇㅈ
+- if밑에 한줄을 쓰더라도 {}을 쓴다. 
+
 
 # [정리해고](https://www.youtube.com/watch?v=UIOBvofN7as&list=PLW_uvsSPlijvMY-6Y-0I-bi4tlUFKEuFK&index=209&t=0s)
 
@@ -826,6 +855,11 @@
 
 # [전기차는 환경보호?](https://www.youtube.com/watch?v=3S2AH439iRs&list=PLW_uvsSPlijvMY-6Y-0I-bi4tlUFKEuFK&index=230&t=0s)
 
+- 전기차는 환경보호에 도움이 될까?
+- 내가 사는 도시가 전기를 어떻게 생산하는가에 따라 다른거같다.
+- 도시가 화력발전으로 전기를 생산한다면 오히려 더 비효율적이지 않을까?
+- 원자력 발전도 전기를 많이 쓰게되면서 결구에 환경파괴가 될텐데라는 생각이 든다.
+- 발전소에서와 차에서 연료를 떼는것의 효율의 차이가 있을수도있으니까 내 생각이 틀릴수도있다.
 
 # [새로운 포프TV 컨텐츠](https://www.youtube.com/watch?v=xSP0ZuJ59H0&list=PLW_uvsSPlijvMY-6Y-0I-bi4tlUFKEuFK&index=231&t=0s)
 
@@ -990,6 +1024,9 @@
 
 # [일상 훔쳐보기와 시간 때우기](https://www.youtube.com/watch?v=prYbsSfhBAQ&list=PLW_uvsSPlijvMY-6Y-0I-bi4tlUFKEuFK&index=279&t=0s)
 
+- 포프TV 일상라이브 채널을 새로만들었다.
+- 나는 일상같은거 보면서 멍때리는거 안좋아해서 유튜브 잘안본다.
+- 나는 인간의 인생이 지루함과의 싸움인거같다.
 
 # [인터넷과 지식인](https://www.youtube.com/watch?v=jBY410dyY4s&list=PLW_uvsSPlijvMY-6Y-0I-bi4tlUFKEuFK&index=280&t=0s)
 
@@ -1161,6 +1198,18 @@
 
 # [불편한 진실](https://www.youtube.com/watch?v=OjZ555nqh0U&list=PLW_uvsSPlijvMY-6Y-0I-bi4tlUFKEuFK&index=320&t=0s)
 
+- 미국 대선이 있을때 부시와 앨 고어하고 붙었을때 부정개표에대해서 말이 많았다. 이때 앨 고어는 자기에게는 더 중요한 일이 있다고 깔끔하게 승복을 해버렸다. 그 후 그는 지구온난화에 대한 불편한 진실이라는 영화를 만들었다.
+- 환경에 대해서 나는 지구온난화가 문제일거다라고 믿고있다.
+- 나는 진실인지 아닌지 모르는 상황에서는 불편한 쪽이 진실이라고 믿고있다.
+- 사람들은 성향이 불편한 진실을 받아들이기 어려워하는것같다.
+- 학생에게 언제나 절반정도 졸업 못 할거고 졸업 한 사람중에 아무 직장이나 잡을사람이 90%이다. 이말을 하면서 여러가지 증거를 보여준다
+- 주위에 있는 경력 몇년 있는 사람들에게 얼마나 모을 수 있고 그걸로 얼마나 살 수가 있을까를 많이 계산해준다.
+- 이렇게 해줌에도 안믿는 사람들이 있다.
+- 실수를 많이 하는 사람들의 대부분이 이런 성향인 사람들이다.
+- 이런 성향인 사람들은 베품을 받으면서도 고마움을 잘 모르는 사람이고 패턴적으로 여러가지가 나온다
+- 
+
+
 
 # [클라우드 개발환경](https://www.youtube.com/watch?v=T44a4pF1oCc&list=PLW_uvsSPlijvMY-6Y-0I-bi4tlUFKEuFK&index=321&t=0s)
 
@@ -1234,6 +1283,14 @@
 
 # [나는 내성적이다](https://www.youtube.com/watch?v=ujBdBg-oh3c&list=PLW_uvsSPlijvMY-6Y-0I-bi4tlUFKEuFK&index=339&t=0s)
 
+- mbti를 봤다. (일상라이브에 있음) 내가 생각한대로 나왔다.
+- 사람들은 내가 내성적인거에 의아해 한다.
+- 나는 내성적이다.
+- 내성적인 사람들에게 외향적이게 살아야한다라고 약파는 사람이있다.
+- 내성적인 사람은 내성적인 사람의 장점이 있다.
+- 실력이 중요한부분으로 성공한 사람은 내성적인 사람이 외향적인 사람보다 많다.
+- 물론 외곬수는 안되고 어느정도 맞춰주는것도 필요하다 하지만 코어는 자기 실력이다.
+- 내성적인사람은 최대한 장점을 살리고 단점은 대인관계가 유지될 정도로만 유지하면된다.
 
 # [내가 존경하는 테크 회사](https://www.youtube.com/watch?v=F38DgUQo1cA&list=PLW_uvsSPlijvMY-6Y-0I-bi4tlUFKEuFK&index=340&t=0s)
 
@@ -1321,6 +1378,11 @@
 
 # [BCIT 수석한 법](https://www.youtube.com/watch?v=docCxMJntcg&list=PLW_uvsSPlijvMY-6Y-0I-bi4tlUFKEuFK&index=360&t=0s)
 
+- 말도 잘못하던 내가 해외 대학 수석졸업? 
+- 들어가기전부터 수석을 해야겠다는 생각을 했다
+- 같이 할 팀을 나서서 모았다.
+- 내 성적의 80퍼센트를 내가 메꾸고 20퍼센트는 팀원들이 메꿔줬다.
+- 나한테 굉장히 내성적이고 편한것을 벗어나는게 힘들었고 나쁜것도 자처를 했다.
 
 # [넌 어차피 까인다](https://www.youtube.com/watch?v=XrcIad3_KRQ&list=PLW_uvsSPlijvMY-6Y-0I-bi4tlUFKEuFK&index=361&t=0s)
 
@@ -1431,6 +1493,10 @@
 
 # [소프트웨어 아키텍트의 코딩](https://www.youtube.com/watch?v=h_XWL253eEY&list=PLW_uvsSPlijvMY-6Y-0I-bi4tlUFKEuFK&index=389&t=0s)
 
+- 회사에서 소프트웨어 아키텍트 코스에 보내줬는데 juval lowy 가 가르쳐줬다.
+- 그 사람이 소프트웨어 아키텍트는 실제 제품에 들어가는 코딩을 하면안된다.
+- 코딩을 할 수록 밑에 사람들이 관리가 안되서 팀 전체의 효율이 떨어진다.
+- 소프트웨어 아키텍처는 설계를 끝내고 모든걸 기반을 잡고 그 블루프린트가 만들어지면 시니어들이 들어가서 그내 부의 클래스 단 만들고 그 클래스 다만들고 api지정 다 해주고  시그내처 다 만들고 그 밑에 있는 코드몽키들이 들어가서 함수 하나하나 들어가는 기능만 만드는게 올바를 아키텍처고 큰회사가 유일하게 계속 뻗어나갈수있는 방법이다
 
 # [노는 안드로이드폰으로 비트코인 채굴하기](https://www.youtube.com/watch?v=IfhoFEhPfpQ&list=PLW_uvsSPlijvMY-6Y-0I-bi4tlUFKEuFK&index=390&t=0s)
 
