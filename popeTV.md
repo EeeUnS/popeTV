@@ -15,9 +15,13 @@
 
 # [영어회화 공부법](https://www.youtube.com/watch?v=CoOXdml5ny8&list=PLW_uvsSPlijvMY-6Y-0I-bi4tlUFKEuFK&index=7&t=0s)
 
+- 영어는 초중고 나울정도면 취직이된다고 믿는다
+- 영어공부 절대로 하지마라 란걸 읽고 많이 공감을 했고 따라했다.
+- 스카이프를 통해서 화상채팅을 했다는 얘기를 들었는데 좋은거같다.
 
 # [마이크로소프트 MVP](https://www.youtube.com/watch?v=7FVPdRGVZMA&list=PLW_uvsSPlijvMY-6Y-0I-bi4tlUFKEuFK&index=8&t=0s)
 
+- 나 마소에서 MVP 뽑혔음
 
 # [내가 못쓰는 C++11: constexpr](https://www.youtube.com/watch?v=OlxOKdrQhO0&list=PLW_uvsSPlijvMY-6Y-0I-bi4tlUFKEuFK&index=9&t=0s)
 
@@ -69,6 +73,19 @@
 # [삼색 코드리뷰](https://www.youtube.com/watch?v=XWBZXEIQCSU&list=PLW_uvsSPlijvMY-6Y-0I-bi4tlUFKEuFK&index=23&t=0s)
 
 
+- 코드리뷰는 과연 필요한가라는 생각을 많이 해봤다.
+- 규칙은 빡세면 빡세질수록 원래 지키는 사람만 힘들어지고 안지키던 사람은 어떻게든 안지킬 방법을 찾는다.
+- 코드리뷰는 세가지 효과가 있다.
+  - 코드에 문제가있을때 잘 잡아내서 미리미리 방지할 수 있다
+  - 검토하는 사람의 원하는 코드방식을 강요
+  - 내가 잘났다는 걸 보여주는 식
+- 반드시 코드리뷰를 할 필요는 없는거같고 두가지 경우에 강제적으로 해야하는거같다.
+  - 새로운 직원
+  - 그냥 코드 베이스를 뽀개먹고 문제가있다고 판단된 사람
+- 프로젝트가 중요한시기일때는 전체적으로 코드리뷰를 해야할때라고 생각한다.
+
+
+
 # [한국인이 잘못쓰는 영어: 사전찾기](https://www.youtube.com/watch?v=JqVKQpxuEbo&list=PLW_uvsSPlijvMY-6Y-0I-bi4tlUFKEuFK&index=24&t=0s)
 
 
@@ -113,6 +130,11 @@
 
 # [포프의 시간관리법](https://www.youtube.com/watch?v=GYkEvhwh2b0&list=PLW_uvsSPlijvMY-6Y-0I-bi4tlUFKEuFK&index=38&t=0s)
 
+- 확실한 목표가 있을때 시간단위계획보다는 주단위 계획을 세웠었다
+- 지금은 해야할거는 투두에 넣어놓고 한다.
+- 우선적인걸 기준으로 소팅한다.
+- 근데 계속 안하는건 어차피 안할거라고 생각하고 지운다.
+- 이렇게하니 어떤 일하나에 집중적으로 투자할수있게된다. 여러가지를 조금씩하는것보다는 하나하나 끝내는게 목록에서 지울수있으니 스트레스를 덜받는다
 
 # [야근에 대해 말해보자](https://www.youtube.com/watch?v=XBHS9r-z80U&list=PLW_uvsSPlijvMY-6Y-0I-bi4tlUFKEuFK&index=39&t=0s)
 
@@ -152,6 +174,7 @@
 
 # [스페셜리스트 vs 제너럴리스트](https://www.youtube.com/watch?v=9n--830SKk0&list=PLW_uvsSPlijvMY-6Y-0I-bi4tlUFKEuFK&index=50&t=0s)
 
+- 제너럴 리스트라는게 그자체적으로 스페셜리스트인거같다.
 
 # [슈팅게임 알고리듬](https://www.youtube.com/watch?v=NgFp5D1trAA&list=PLW_uvsSPlijvMY-6Y-0I-bi4tlUFKEuFK&index=51&t=0s)
 
@@ -235,6 +258,12 @@
 
 # [책욕심](https://www.youtube.com/watch?v=XvRewqjJ3dU&list=PLW_uvsSPlijvMY-6Y-0I-bi4tlUFKEuFK&index=76&t=0s)
 
+- 내가 다시 게임프로그래머가 되야했을때 생각했을때 책을 엄청샀었다.
+- 그런데 보지도않고 버렸다.
+- 내 미래에 불안할때 이를 극복하기위해 책을 샀던거같다.
+- 프로그래밍 쪽에서 책이 정말 유용한 경우는 초보자,입문자들이 책한권보면서 차근차근 할땐거같고 업계에서 나오는 내용같은 것들은 컨퍼런스나 논문들 같은걸 찾는게 효율적이고 지면도 줄이는 방법같다.
+- 책을 사는 기준은 1,2주 안에 시작해서 주에 한 100페이지 볼 시간이 된다 하면 사는거고 아니면 안사는게 맞는거 같다.
+- 불안할해서 책사는 것보다는 개인 프로젝트를 하는게 더좋은거같다
 
 # [리더와 시니어](https://www.youtube.com/watch?v=fqX-35K5hhY&list=PLW_uvsSPlijvMY-6Y-0I-bi4tlUFKEuFK&index=77&t=0s)
 
@@ -323,6 +352,11 @@
 
 # [게임이 접히는 이유](https://www.youtube.com/watch?v=j1KkMMLAGZI&list=PLW_uvsSPlijvMY-6Y-0I-bi4tlUFKEuFK&index=98&t=0s)
 
+- 영화에서는 망해도 일단 완성을 하는데 게임은 아예 접힌다
+- 이게 세금제도랑 관련이 있다.
+- 영화에서는 만드는 동안의 지출을 개봉하고나서 수입에 껴넣어 세금혜택을 받을 수가있다.
+- 언제부터 미 국세청에서 게임 업계에서는 영화와 다르게 그렇게 안된다고 했다고한다.
+- 배급사입장에선 게임을 접는게 돈이 남기에 그 뒤로 게임을 접는 경우가 많아졌다.
 
 # [Hi-Z 최적화 아이디어](https://www.youtube.com/watch?v=7XXSPRiJKjo&list=PLW_uvsSPlijvMY-6Y-0I-bi4tlUFKEuFK&index=99&t=0s)
 
@@ -340,6 +374,10 @@
 
 
 # [리얼타임?](https://www.youtube.com/watch?v=gxwE2cmUiUc&list=PLW_uvsSPlijvMY-6Y-0I-bi4tlUFKEuFK&index=104&t=0s)
+
+- 학계쪽에 나온걸 쓰는건 몇십년전껄 지금에서야 쓰게된다.
+- 언제나 학계에서 나오는 자료는 검증이 필요하다.
+- 학계 사람들은 실시간에 대한 용어정립을 좀 했으면 좋겠다.
 
 
 # [로봇의 습격](https://www.youtube.com/watch?v=iVMoHsYvoG4&list=PLW_uvsSPlijvMY-6Y-0I-bi4tlUFKEuFK&index=105&t=0s)
@@ -383,6 +421,8 @@
 
 # [난 직설적인 회사가 좋다](https://www.youtube.com/watch?v=UvPzP4nKaCw&list=PLW_uvsSPlijvMY-6Y-0I-bi4tlUFKEuFK&index=110&t=0s)
 
+- 회사가 객관적으로 실제로 일한 시간보단 눌러 앉아있는 시간만 따지더라
+- 객관적인 숫자로만 따지면서 실상은 개판으로하는 회사컬처가 엄청 마음에 안든다.
 
 # [게임데이터 저장 및 로딩](https://www.youtube.com/watch?v=Ssg_XyZlbvA&list=PLW_uvsSPlijvMY-6Y-0I-bi4tlUFKEuFK&index=111&t=0s)
 
@@ -398,8 +438,15 @@
 
 # [왜 아직도 float인가?](https://www.youtube.com/watch?v=3CaVXKGRo-4&list=PLW_uvsSPlijvMY-6Y-0I-bi4tlUFKEuFK&index=115&t=0s)
 
+- double 쓰자
+- float보단 double이 그래도 더 정밀하니까 속도도 그렇게 중요한게 아니라면 double이 낫지 않을까
+- cpu PC쪽에는 floating point가 기본레지스터가 32비트가 아닐까
+- 왜 아직도 float을 쓸까
 
 # [올바른 코드리뷰 프로세스](https://www.youtube.com/watch?v=bQqN4G8tRmY&list=PLW_uvsSPlijvMY-6Y-0I-bi4tlUFKEuFK&index=116&t=0s)
+
+- 코드리뷰는 커밋전 리뷰(pre commit review)보다 커밋후 리뷰(post commit review)가 더 효율적이다. 물론 군사업계나 이런곳은 예외
+- 이것저것 코드리뷰용 프로그램 써봣는데 괜찮더라
 
 
 # [소스컨트롤 시스템 2](https://www.youtube.com/watch?v=yJVD5U-IYGU&list=PLW_uvsSPlijvMY-6Y-0I-bi4tlUFKEuFK&index=117&t=0s)
@@ -505,6 +552,9 @@
 
 # [개발경력 3년이면](https://www.youtube.com/watch?v=ie2epvAsAGE&list=PLW_uvsSPlijvMY-6Y-0I-bi4tlUFKEuFK&index=144&t=0s)
 
+- 회사에있는 코옵 사람이랑 술을 마셨다. 정말 논리적이고 괜찮은 사람이란걸 느낌
+- 경력이 3년인데 엄청 뛰어난 사람이었다.
+- 경력 3년안에만 잘하면 웬만한 프로그래머는 누른다. 열심히해라, 야근하지마라
 
 # [과연 모바일이 미래인가?](https://www.youtube.com/watch?v=9ro-2gn8-L4&list=PLW_uvsSPlijvMY-6Y-0I-bi4tlUFKEuFK&index=145&t=0s)
 
@@ -561,6 +611,10 @@
 
 # [내가 꿈꾸던 회사](https://www.youtube.com/watch?v=wC-GErmtVw8&list=PLW_uvsSPlijvMY-6Y-0I-bi4tlUFKEuFK&index=159&t=0s)
 
+- 내가 원하는 회사상은 이렇다
+- 봉급을 많이 줄생각은 없다. 업계 평균만큼 주고 그대신 딱 주 40시간 일하고 남는 시간은 자기 하고싶은걸 하라고 하고싶다.
+- 야근을 하는등 추가적인 지출이 있는경우 제대로 보상을 해준다. 
+
 
 # [수포자를 위한 게임수학](https://www.youtube.com/watch?v=GSOBXnZNB5Q&list=PLW_uvsSPlijvMY-6Y-0I-bi4tlUFKEuFK&index=160&t=0s)
 
@@ -573,9 +627,20 @@
 
 # [exception safe 프로그래밍](https://www.youtube.com/watch?v=g7dzMgrWFic&list=PLW_uvsSPlijvMY-6Y-0I-bi4tlUFKEuFK&index=163&t=0s)
 
+- exception이 반드시 필요한 경우는 있다
+  - 코드가 내가 소유한 코드가 아닐때 서드파티 라이브러리에서 익셉션 던질때
+  - 파일io
+- 익셉션 대충 쓰면은 디버깅하기가 너무 힘들다.
 
 # [[또 헛소리] 좌측, 우측통행?](https://www.youtube.com/watch?v=4Bd3L5wc7_M&list=PLW_uvsSPlijvMY-6Y-0I-bi4tlUFKEuFK&index=164&t=0s)
 
+- 한국이 좌측통행이다가 우측통행으로 바뀌었다.
+- 둘을 비교했을때 좌측통행이 조금 더 안전했다.
+- 차가 오른쪽으로 다니니까 좌측으로 다니면 반대로 오는걸 보기때문에 조금더 안전하다는 생각
+- 차라리 익셉션보단 C에서 에러코드 던지는게 더 낫다.
+- exception던져도 예전 상태가 망가지면 안된다.
+- 안 쓰고도 코드가 돌 수있으면 안 쓰는게 좋다
+- 생각하면서 코드 좀 짜자
 
 # [퍼포스 헬릭스 클라우드 사용기 1](https://www.youtube.com/watch?v=y72Wd3cRR0k&list=PLW_uvsSPlijvMY-6Y-0I-bi4tlUFKEuFK&index=165&t=0s)
 
@@ -596,6 +661,12 @@
 
 
 # [exception 버리기](https://www.youtube.com/watch?v=YGOE5CEkX0o&list=PLW_uvsSPlijvMY-6Y-0I-bi4tlUFKEuFK&index=171&t=0s)
+
+- 소프트웨어 아키텍트 클래스를 갔다
+- 거기서 exception은 exception 마스킹을 하라고한다.
+- 익셉션이 난건 이미 그자체가 큰 에러다. 모든게 깨져야한다.
+- 내 서비스 안에서 try catch를 하고 익셉션이 발생했다는 정보하나만 반환을 하게한다.
+- 그리고 디버깅 정보는 내부서버에 로깅을 하고 보고 체크한다.
 
 
 # [개발 프로세스 헛소리좀 그만](https://www.youtube.com/watch?v=e50zjkJ8kh0&list=PLW_uvsSPlijvMY-6Y-0I-bi4tlUFKEuFK&index=172&t=0s)
@@ -626,6 +697,11 @@
 
 # [스페셜 리스트가 맞다](https://www.youtube.com/watch?v=MSPjr2Yus1I&list=PLW_uvsSPlijvMY-6Y-0I-bi4tlUFKEuFK&index=178&t=0s)
 
+- 알게된 사람중에 정말 뛰어난 제너럴 리스트를 봤다.
+- 굉장히 뛰어난 제너럴 리스트는 그냥 여러가지 분야에 스페셜리스트다.
+- 스페셜 리스트가 맞다.
+- 천재가 아닌데 정말 뛰어난 제너럴리스트가 될수있을까? 난 안된거같애
+- 그래서 한분야만 팔 수 있고 진짜 편하게 살수있으려면 스페셜리스트가 맞다.
 
 # [커뮤니케이션 문제 찾기](https://www.youtube.com/watch?v=Qy8c1-l4W5g&list=PLW_uvsSPlijvMY-6Y-0I-bi4tlUFKEuFK&index=179&t=0s)
 
@@ -773,6 +849,15 @@
 
 
 # [정리해고](https://www.youtube.com/watch?v=UIOBvofN7as&list=PLW_uvsSPlijvMY-6Y-0I-bi4tlUFKEuFK&index=209&t=0s)
+
+- 기술자 입장에서 우리는 최저임금을 받는 직업이 아니기에 정리해고를 당하는것에 회사가 보장을 해줘야하는 건 아니라고 생각한다. 미래에 대한 준비를 안한것.
+- 한회사가 20년 30년 책임져주는건 이해가 안된다. 난 언제나 회사를 떠날 수 있으니 회사도 언제든 나를 버릴 수 있다
+- 한국에선 누가 짜르기 힘든걸로 알고있다
+- 북미에선 사람을 짜르는데 아무런 제약이 없는데도 불구하고 대다수의 경우 정리해고로 짜르고 돈을 준다.
+- 회사가 살아남기위한 차원에서의 정리해고이다. 최소한의 봉급을 조금 챙겨주기에 회사에 악감정도 가지지 않고 깔끔하게 처리할수있다.
+- 실력없는 사람을 짜를때도 정리해고로 짜르면 회사와 개인에게 모두 윈윈이다.
+- 뭐 자기 맘에 드는사람 옆에두고 아닌사람 정리해고 하는경우에는 분개할수도 있겠지만 열심히 하는 사람에게 공평하게 하기위해서 정리해고하는거라면 나는 좋게본다.
+- 회사는 나한테 모든걸 해줘야한다는 생각을 하지않았으면 좋겠다 둘은 계약관계다
 
 
 # [유니티 게임오브젝트](https://www.youtube.com/watch?v=cxyG_REKD4Y&list=PLW_uvsSPlijvMY-6Y-0I-bi4tlUFKEuFK&index=210&t=0s)
@@ -1249,6 +1334,14 @@
 
 # [ASP.NET Core를 쓰자](https://www.youtube.com/watch?v=0-5v1rI6ZGk&list=PLW_uvsSPlijvMY-6Y-0I-bi4tlUFKEuFK&index=333&t=0s)
 
+- NodeJs가 많이 각광을 받았고 마소가 따라하는 경향으로 나온게 asp.net.core이다.
+- 신기술이 나왔을때 언제 도입했을지 고민이 됐었는데 작년까지는 시기상조라고 생각했다.
+- 비주얼 스튜디오 2017이 나오면서 상황이 바꼈다.
+- 내가 있는 회사에서도 닷넷코어로 돌아섰다.
+- 장점이 엄청많이 있고 물론 단점도 있다. defendency Injection에 엄청 의존을 하고 여러가지 문제가 있다.
+- 써도 될 때가 됐다.
+- 2년뒤에는 새프로젝트 모두 닷넷 코어로 하지않을까
+
 
 # [윈10 나이트 라이트 모드와 EyeLeo](https://www.youtube.com/watch?v=9aa1FPxhHOw&list=PLW_uvsSPlijvMY-6Y-0I-bi4tlUFKEuFK&index=334&t=0s)
 
@@ -1340,6 +1433,11 @@
 
 # [선의의 거짓말은 없다](https://www.youtube.com/watch?v=ugRUJgXHGD4&list=PLW_uvsSPlijvMY-6Y-0I-bi4tlUFKEuFK&index=350&t=0s)
 
+- 아내가 암에 걸렸을때 남편이 그 사실을 숨기고 나중에 몸이 괜찮아 졌을때 남편이 숨긴 사실을 얘기했을떼 아내가 안 좋아했다. 죽음에 대해 준비할 시간을 못 가진거를 안줬다.이때 남편은 니가 힘들어 할 까봐 숨겼다라고 했고 아내는 그건 니가 내가 힘들어하는 모습을 보기 싫어서 그랬다.고 반론한다.
+- 나쁜 얘기를 못하는 사람은 자기가 그걸 못버텨하는게 맞다.자기가 나쁜 사람이 되기싫거나 자기한테 이익이 있거나. 그래서 상대방을 위해서라며 포장하게 되더라.
+- 선의의 거짓말을 할정도라고 하면 굉장히 중요한 내용일 거다 그런 중요한 내용을 내가 생각하는 저 사람의 성향이 이렇다는 판단을 해야 되는가
+
+
 
 # [대학을 통한 북미취업](https://www.youtube.com/watch?v=bEhVT1Axv-k&list=PLW_uvsSPlijvMY-6Y-0I-bi4tlUFKEuFK&index=351&t=0s)
 
@@ -1349,6 +1447,14 @@
 
 # [테슬라, 전기차, 자동주행차](https://www.youtube.com/watch?v=1ck85EIPFdc&list=PLW_uvsSPlijvMY-6Y-0I-bi4tlUFKEuFK&index=353&t=0s)
 
+- 테슬라 사고싶어요
+- 근데 나는 현실적으로 여러가지 문제가 있다.
+  - 충전하는데 걸리는 시간이 오래걸리고 충전기 꼽는게 귀찮다
+  - 아파트라 충전하기가 애매하다.
+- 또 무인자동차가 나오면 굉장히 좋겠다는 생각도 하게됬다
+- 자동으로 달리는 차가 나오면 무인 충전소에 알아서 갔다오게 할 수 있지 않을까?
+- 자율 주행이 미국엔 5년안에 정식 허가가 되지않을까? 그러면 캐나다는 한 10년 안에 그런 날이 오지않을까
+- 테슬라 한번 타봐라
 
 # [생활습관을 고쳐야 좋은 엔지니어(프로그래머)가 된다](https://www.youtube.com/watch?v=PCkFeHJxJn4&list=PLW_uvsSPlijvMY-6Y-0I-bi4tlUFKEuFK&index=354&t=0s)
 
@@ -1407,6 +1513,11 @@
 
 # [나는 모른다는 거짓말](https://www.youtube.com/watch?v=dFrQmoOKXk8&list=PLW_uvsSPlijvMY-6Y-0I-bi4tlUFKEuFK&index=368&t=0s)
 
+- 위플래쉬 : 너 뭘 잘못했어 , 모르겠습니다, 퍽  너 빠르게쳤어 느리게쳤어, 느리게쳤습니다, 근데 왜 모른다했어?
+- 최근에 키우던 애 중에 나는 모른다라는 말로 책임을 회피한 애가 있었다. 마지막에 궁지에 몰리면 대답을 안하더라 
+- 모른다하면서 넘기는게 주니어일때는 모르겠는데 경력이 쌓이면 모든 회사에서 가만히 안넘어간다. 
+- 툭하면 모른다하는 사람은 한번 직접 확인해 볼 필요가 있을거같다.
+- 삽질도 어릴때해야지 나이들고 하려고하면 답이없다
 
 # [멘토](https://www.youtube.com/watch?v=SQmSI82vbIM&list=PLW_uvsSPlijvMY-6Y-0I-bi4tlUFKEuFK&index=369&t=0s)
 
@@ -1689,6 +1800,7 @@
 
 # [레드오션? 블루오션?](https://www.youtube.com/watch?v=NnZw97h6284&list=PLW_uvsSPlijvMY-6Y-0I-bi4tlUFKEuFK&index=442&t=0s)
 
+- 
 
 # [니 기억은 언제나 틀리다](https://www.youtube.com/watch?v=N7r8cqzSXQQ&list=PLW_uvsSPlijvMY-6Y-0I-bi4tlUFKEuFK&index=443&t=0s)
 
