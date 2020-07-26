@@ -193,6 +193,10 @@
 
 # [신년계획 따윈 세워서 뭐하나?](https://www.youtube.com/watch?v=NgIC_M2GsdU&list=PLW_uvsSPlijvMY-6Y-0I-bi4tlUFKEuFK&index=56&t=0s)
 
+- 나는 신년계획을 안세우기로 유명하다.
+- 내가 가는일이 있고 뭘 열심히 해야하는지 알기때문에 이번년에 해야할게 있다는게 따로 없었다.
+- 신년계획을 한번 세워봤는데 다 못지켰다 (운동,결혼, 내일...)
+- 신년계획의 좋은점은 내가 어느정도 이룰 수 있는 능력이 있는지를 개념을 잡을 수 있는거 같다.
 
 # [규칙을 지키는 놈만 손해다?](https://www.youtube.com/watch?v=Dos6h0J5ro0&list=PLW_uvsSPlijvMY-6Y-0I-bi4tlUFKEuFK&index=57&t=0s)
 
@@ -208,6 +212,10 @@
 
 # [한분야의 마스터가 되려면](https://www.youtube.com/watch?v=RDBXnBg_WQs&list=PLW_uvsSPlijvMY-6Y-0I-bi4tlUFKEuFK&index=61&t=0s)
 
+- 말콤 글래드웰가 했던 얘긴데 한분야에 전문가(마스터)가 되려면 집중해서 만시간정도를 들여야 한다. 대략 10년정도.
+-  대충 맞는거 같다.
+- 기간동안 얼마나 발전을 했는지가 정말 중요한거같다
+- 목표를 세워놓고 안됐다고 좌절하는 것보다는 목표를 세워놓고 내가 어느정도 발전을 했고 원하는데 가기까지 어느정도 시간이 더 걸리는지 판단이 더 중요한거같다.
 
 # [최적화 툴: Speed Cop](https://www.youtube.com/watch?v=5TM-vPhuL7Q&list=PLW_uvsSPlijvMY-6Y-0I-bi4tlUFKEuFK&index=62&t=0s)
 
@@ -558,6 +566,13 @@
 
 # [과연 모바일이 미래인가?](https://www.youtube.com/watch?v=9ro-2gn8-L4&list=PLW_uvsSPlijvMY-6Y-0I-bi4tlUFKEuFK&index=145&t=0s)
 
+- 코옵 사람이랑 술을 마신사람이랑 했던 얘긴데
+- 회사에서 들어온 다른 코옵이랑도 같은 얘기를 했었다
+- 모바일이 미래일까?
+- 모바일은 미래가 아니다
+- 웹이 미래다
+- 대부분의 로직이 웹으로 가고있다.
+- 모바일만큼 발전하는게 데이터 처리가 발전하고 있다
 
 # [머신러닝](https://www.youtube.com/watch?v=cttJPHKBY84&list=PLW_uvsSPlijvMY-6Y-0I-bi4tlUFKEuFK&index=146&t=0s)
 
@@ -578,6 +593,13 @@
 
 
 # [나는 머신이다](https://www.youtube.com/watch?v=PBXEmfWRock&list=PLW_uvsSPlijvMY-6Y-0I-bi4tlUFKEuFK&index=152&t=0s)
+
+- 조지아텍에서 머신러닝을 배우고있는데 내가 왜 머신러닝을 좋아하는지 알거같다.
+- 머신러닝의 종류 3가지
+- 내가 사람에 대해서 판단을 빨리 하는 편이다. 여태까지 봐왔던 사람들의 공통요소와 다른점을 많이 찾는것 같다.
+- 판단을 내리고 틀린 판단을 했을때는 미안하다고 한다
+- 내가 생각을 해왔던것 자체가 굉장히 머신러닝과 비슷하다.
+- 나는 패턴을 찾는거를 좋아한다.
 
 
 # [재택근무가 하고파요](https://www.youtube.com/watch?v=jo7Y6hEzfkk&list=PLW_uvsSPlijvMY-6Y-0I-bi4tlUFKEuFK&index=153&t=0s)
@@ -647,6 +669,10 @@
 
 # [유튜브 비디오 썸네일에 타이틀 넣기](https://www.youtube.com/watch?v=lr1tGFjPMc0&list=PLW_uvsSPlijvMY-6Y-0I-bi4tlUFKEuFK&index=166&t=0s)
 
+- 썸네일에 타이틀을 넣어주는 걸 직접 만들었다.
+- 썸네일은 html을 긁어서 왔다
+- 타이틀은 유튜브 api를 통해서 들고 올수있었다. 근데 나중에 유튜브 api 방식이 바뀌었고 html 다 들고와서 직접 넣어주는 식으로 바꿨다.
+- 깃헙에 올려놨다
 
 # [평생 기술자 하세요](https://www.youtube.com/watch?v=P4vSCZwd7rc&list=PLW_uvsSPlijvMY-6Y-0I-bi4tlUFKEuFK&index=167&t=0s)
 
@@ -759,6 +785,9 @@
 
 # [민폐주는 시니어](https://www.youtube.com/watch?v=2dgVJ_xxBEw&list=PLW_uvsSPlijvMY-6Y-0I-bi4tlUFKEuFK&index=194&t=0s)
 
+- 회사에 실력 없는 시니어가 있다
+- 실력도 없었고 질문의 자세가 안되어있더라
+- 남한테 피해주는 개발자는 안 됐으면 좋겠다
 
 # [감마 보정](https://www.youtube.com/watch?v=n63uXAjbOjo&list=PLW_uvsSPlijvMY-6Y-0I-bi4tlUFKEuFK&index=195&t=0s)
 
@@ -784,6 +813,9 @@
 
 # [난 언제나 바쁘다](https://www.youtube.com/watch?v=kbli7XZymMw&list=PLW_uvsSPlijvMY-6Y-0I-bi4tlUFKEuFK&index=198&t=0s)
 
+- 난 바쁘다는 변명을 싫어한다 나는 바쁘냐고 물으면 언제나 바쁘다고한다.
+- 내가 놀더라도 다음의 일을 위해 휴식을 취하는 거기때문에 바쁜거다
+- 왜 너는 안바쁘면서 날 위해 이걸 못해주냐는 사람들이 싫다.
 
 # [코드몽키를 위한 코딩 스탠다드](https://www.youtube.com/watch?v=dIMySJ-HQ5k&list=PLW_uvsSPlijvMY-6Y-0I-bi4tlUFKEuFK&index=199&t=0s)
 
@@ -799,6 +831,13 @@
 
 # [생긴대로 사는법](https://www.youtube.com/watch?v=t4jocIEKEEM&list=PLW_uvsSPlijvMY-6Y-0I-bi4tlUFKEuFK&index=201&t=0s)
 
+- 인생은 네고시에이션
+- 사람들은 자기만의 성향이 있다.
+- 성공이라는 모습자체가 굉장히 틀에 갇혀있다
+- 그냥 내가 하고싶은거 좋아하는 것 잘하는거에서 성공하면 되는것 같다.
+- 내가 옆의 엄친아가 될 순 없다. 그런데 중요한 것은 내가 나만의 뭔가를 할 수 있는것을 보여줘야한다.
+- 내가 나만의 성공할 수 있는 방식을 찾아야 한다.
+- 내가 나만의 기준을 세우고 나만의 길에 성공하고 그걸 남들도 인정하게 만들면 되는 거 같다.
 
 # [포프TV Top 5, 그리고 뒷이야기 (2015)](https://www.youtube.com/watch?v=bMaYASpaxbs&list=PLW_uvsSPlijvMY-6Y-0I-bi4tlUFKEuFK&index=202&t=0s)
 
@@ -921,6 +960,9 @@
 
 # [포프TV 라이브 계획](https://www.youtube.com/watch?v=lIOSYKTNN4M&list=PLW_uvsSPlijvMY-6Y-0I-bi4tlUFKEuFK&index=224&t=0s)
 
+- 영천님하고 라이브로 direct12에 대해 많은 얘기를 했었다 이걸로 한번더 얘기를 할생각이다.
+- 최근에 롤 라이브를 했었는데 재밌게 했다. 여기서 생각난건데 스페이스마린을 한번 쭉 라이브로 할까 생각중이다.
+- 
 
 # [가벼운 스타트업](https://www.youtube.com/watch?v=yra-fJ7-b9Y&list=PLW_uvsSPlijvMY-6Y-0I-bi4tlUFKEuFK&index=225&t=0s)
 
@@ -1154,6 +1196,17 @@
 
 # [실수 고치기](https://www.youtube.com/watch?v=smc1iRPbX-0&list=PLW_uvsSPlijvMY-6Y-0I-bi4tlUFKEuFK&index=291&t=0s)
 
+- 사람들은 누구나 실수를 한다.
+- 이말은 변명으론 쓰이면 안된다.
+- 실수를 많이하는 사람은 성장이 느리다.
+- 습관들이기라는 영상을 만들었는데 그게 기본이라고 생각한다
+- 실수를 많이하는 사람은 남한테도 민폐를 끼친다
+- 그러면 실수를 어떻게 만회할까?
+- 실수를 많이하고 고치려고하지않는 사람은 두가지 패턴이있다
+  - 너무 미안하다 감정에 호소하고 만회할 생각없이 넘어가려한다.
+  - 자기가 모든 책임을 떠 안는다. : 이게 업무관계에서는 말이 되는데 친목관계에서는 안되는 경우가 있다.
+- 실수를 안하려고 하는 사람이 실수를 햇을때는 책임지는 방법이 조금 다르다
+  - 여러명이 했을때 실수를 쉽게 메꿀수있다면 도움을 청하고 대가를 준 경우
 
 # [숫자놀이 회사정치](https://www.youtube.com/watch?v=H0eRk03cCbU&list=PLW_uvsSPlijvMY-6Y-0I-bi4tlUFKEuFK&index=292&t=0s)
 
@@ -1430,13 +1483,21 @@
 
 # [약 파는 개발자](https://www.youtube.com/watch?v=mk7V3Ne_Cow&list=PLW_uvsSPlijvMY-6Y-0I-bi4tlUFKEuFK&index=349&t=0s)
 
+- 대마왕님이 업계쪽에서 개소리 한 사람을 만난듯하다.
+- 나는 개소리하는(약파는) 사람에게 시간낭비하는 사람이 안타까워서 제대로 말을 해주고싶다.
+- 나는 사람이 기본적으로 거짓말은 하면안된다고 생각한다.
+- 헛소리하는 사람은 기본적으로 2,3년을 넘지 못하더라
+- 좋은소리하고 후진양성하려고 하는 사람이 별로 남질 않더라
+- 누가 갑자기 흥한다면 80프로는 약장사인것같다
+- 요즘은 내가 생각하는것이상으로 내 말을 너무 순순히 듣는것같다.
+- 블로그글을 최근에 봤다. 그 글에서 내 비디오를 보고 하드웨어가 어떻고 컴퓨터가 어떻게 돌아가는지가 중요하다고 얘기를 한 사람이 처음이라고 한다. 내 경력이 오르면서 이게 맞는 말이라는걸 느낀다.라는 내용이었다.
+- 나는 사람들이 엔지니어로 살아남아서 10년 20년 씩 오래있었으면 좋겠다
 
 # [선의의 거짓말은 없다](https://www.youtube.com/watch?v=ugRUJgXHGD4&list=PLW_uvsSPlijvMY-6Y-0I-bi4tlUFKEuFK&index=350&t=0s)
 
 - 아내가 암에 걸렸을때 남편이 그 사실을 숨기고 나중에 몸이 괜찮아 졌을때 남편이 숨긴 사실을 얘기했을떼 아내가 안 좋아했다. 죽음에 대해 준비할 시간을 못 가진거를 안줬다.이때 남편은 니가 힘들어 할 까봐 숨겼다라고 했고 아내는 그건 니가 내가 힘들어하는 모습을 보기 싫어서 그랬다.고 반론한다.
 - 나쁜 얘기를 못하는 사람은 자기가 그걸 못버텨하는게 맞다.자기가 나쁜 사람이 되기싫거나 자기한테 이익이 있거나. 그래서 상대방을 위해서라며 포장하게 되더라.
-- 선의의 거짓말을 할정도라고 하면 굉장히 중요한 내용일 거다 그런 중요한 내용을 내가 생각하는 저 사람의 성향이 이렇다는 판단을 해야 되는가
-
+- 선의의 거짓말을  할정도라고 하면 굉장히 중요한 내용일 거다 그런 중요한 내용을 내가 생각하는 저 사람의 성향이 이렇다는 판단을 해야 되는가
 
 
 # [대학을 통한 북미취업](https://www.youtube.com/watch?v=bEhVT1Axv-k&list=PLW_uvsSPlijvMY-6Y-0I-bi4tlUFKEuFK&index=351&t=0s)
@@ -1557,6 +1618,11 @@
 
 # [댓글 관리자 및 도덕심의 단계](https://www.youtube.com/watch?v=EAbI7sRaTHU&list=PLW_uvsSPlijvMY-6Y-0I-bi4tlUFKEuFK&index=375&t=0s)
 
+- 최근에 댓글이 굉장히 난장판이 되었다.
+- 관리자를 뒀다.
+- 관리자를 두기에 한 이야기가있는데 포프tv를 오래봐온 분이 자기가 좋아하는 책이라고 보내주신게 있다. '나는 생각이 너무 많아' 
+- 사람이 도덕심이 발당하는 과정은 6단계인데 내가 생각한것과 크게 다르지 않더라.
+- 내가 사람을 판단하고 채용하는데 대충 60퍼센트정도 맞는거 같다.
 
 # [와이파이 사이렌으로 긴급대응](https://www.youtube.com/watch?v=1U7YAAl128A&list=PLW_uvsSPlijvMY-6Y-0I-bi4tlUFKEuFK&index=376&t=0s)
 
@@ -1598,9 +1664,16 @@
 
 # [영미법 vs 대륙법](https://www.youtube.com/watch?v=Z_gElWqv-0U&list=PLW_uvsSPlijvMY-6Y-0I-bi4tlUFKEuFK&index=387&t=0s)
 
+- 영미법은 말이 안된다고 생각하는데 판례를 따라가게된다. 그리고 결정을 내리는 사람이 판사가 아닌 배심원제를 한다. 따라서 여러가지 케바케가 생기게 된다. 따라서 역균형이나 역차별들이 생기고 있다
+- 대륙법은 논리적으로 따라간다. 한가지 원칙이있고 그 원칙을 여기에 적용하면서 이게 죄다 아니다 뚜렷한 그런 원칙이 있다.
 
 # [프로그래머로 살아남기 위해 필요한 언어 둘](https://www.youtube.com/watch?v=ESU2IkFj9VM&list=PLW_uvsSPlijvMY-6Y-0I-bi4tlUFKEuFK&index=388&t=0s)
 
+
+- managed 언어와 unmanaged 언어를 둘 다 이해 해야한다
+- 탑급의 프로그래머들은 C,C++모르는 사람이 없다. unmanaged는 메모리 관리가 정말 중요하고 managed는 메모리 관리가 비효율적으로 돌기에 이게 어떻게 도는지를 unmanaged 언어에서 이해를 해야 잡을 수 있다.
+- managed를 통해 언어 내부에서 메모리를 어떻게 관리하는지 직접 알고 판단하는게 중요하다
+- 언어를 하나만 판사람이 더 잘한다.
 
 # [소프트웨어 아키텍트의 코딩](https://www.youtube.com/watch?v=h_XWL253eEY&list=PLW_uvsSPlijvMY-6Y-0I-bi4tlUFKEuFK&index=389&t=0s)
 
@@ -1611,6 +1684,8 @@
 
 # [노는 안드로이드폰으로 비트코인 채굴하기](https://www.youtube.com/watch?v=IfhoFEhPfpQ&list=PLW_uvsSPlijvMY-6Y-0I-bi4tlUFKEuFK&index=390&t=0s)
 
+- 슬랙방에서 두목님이 들어와서 코인얘기를 하는데 관심이가더라
+- 노는 안드로이드 폰으로 채굴을 돌리고있다
 
 # [개발용 맥 빌려 쓰기](https://www.youtube.com/watch?v=hpigmA-RmH8&list=PLW_uvsSPlijvMY-6Y-0I-bi4tlUFKEuFK&index=391&t=0s)
 
@@ -1642,6 +1717,21 @@
 
 
 # [연봉협상](https://www.youtube.com/watch?v=u-4DmO36Fs8&list=PLW_uvsSPlijvMY-6Y-0I-bi4tlUFKEuFK&index=400&t=0s)
+
+
+- 윈윈을 추구한다.
+- 회사를 내가 서로를 못믿으니 내가 먼저 한수 접고 시작하는 거다.
+- 일단 낮게 시작하고 내 수준을 확인하고 그때 다시 맞게 주는 방식이다.
+- 실제로 나는 시간강사 처음할때 가장 낮은 봉급을 받고 후에 실력이 증명이 되면 제대로 된 봉급을 달라고 딜을 때리고 실력을 증명해서 그 다음해에 최고 봉급을 받았다.
+- 캡콤에 남아있을때 내가 가르치는 석사 따고 온애가 나보다 봉급을 더 많이 받더라 그거에 대해 따졌더니 매니저가 거짓말했고 회사 때려치고 옮겼다.
+- 나는 손해를 보는 negotiation을 많이 때린다. 단기적으로 손해를 보더라도 잘되면 상대방은 나를 믿게된다.
+- 사사건건 신경안쓰다가 이거 하나는 내가 안되겠다고하면 상대방쪽도 들어주는 편이다.
+- 단기적인 손해를 보더라도 내가 발전을 했기에 다음 회사를 옮길때에 봉급을 확 올릴수가 있다.
+- 회사와 나의 관계만이 아닌 회사의 사람과의 관계도 좋게 형성될때가 있다.
+-  나보다 못한 옆에있는 사람이 나보다 높게 받더라도 일단 믿어주고 들어간뒤에 나중에 딜을 때린다 이뒤에 연봉협상때 돈을 못 올려받으면 나온다는 식이었다. 이때 나간다할때 올려준다는 회사는 다시는 안돌아갔다.
+-  조용히 일하는 사람은 돈 안주고 불평불만하는 사람만 챙겨주는 걸 싫어한다.
+-  나중에 안좋은 일이 생길때를 대비해서 내가 조금 잃어두면 내가 할말이 많아진다.
+
 
 
 # [버그이야기 - 개발자의 거짓말](https://www.youtube.com/watch?v=9dQXI-TTfMc&list=PLW_uvsSPlijvMY-6Y-0I-bi4tlUFKEuFK&index=401&t=0s)
@@ -2120,6 +2210,11 @@ remind 차냥해
 
 # [못 이루는 신년계획이 더 좋을지도?](https://www.youtube.com/watch?v=7vXD3PVuU64&list=PLW_uvsSPlijvMY-6Y-0I-bi4tlUFKEuFK&index=522&t=0s)
 
+- 목표를 세울때 중요한것 
+  - 실패해도 실망하지않고 성장을 최대한으로 높일수 잇는것.
+  - 목표를 세울때 내가 원하고 할수있고 하고싶은것들을 세워야한다.
+  - 체계적으로 검사하는것 성장했는지에 포커스를 맞추는것
+- pocu 광고
 
 # [워라하(워크/라이프 하모니)를 위한 포프TV (인사 없음)](https://www.youtube.com/watch?v=KlJNPk4eriU&list=PLW_uvsSPlijvMY-6Y-0I-bi4tlUFKEuFK&index=523&t=0s)
 
