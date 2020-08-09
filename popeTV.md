@@ -48,6 +48,7 @@
 
 # [꽃미남 서강대 교수님](https://www.youtube.com/watch?v=XhFu0j0fBw8&list=PLW_uvsSPlijvMY-6Y-0I-bi4tlUFKEuFK&index=15&t=0s)
 
+서강대 게임교육원에 강연을 한번했었는데 학교측에서 좋게봐주셔서 초빙교수가 되었다.
 
 # [스터디 절대로 하지마라](https://www.youtube.com/watch?v=4ZcNL96NMIk&list=PLW_uvsSPlijvMY-6Y-0I-bi4tlUFKEuFK&index=16&t=0s)
 
@@ -141,6 +142,8 @@
 
 # [책자랑: HLSL 개발 조리법](https://www.youtube.com/watch?v=IXGTaI2zjOc&list=PLW_uvsSPlijvMY-6Y-0I-bi4tlUFKEuFK&index=40&t=0s)
 
+감수를 해줬다
+
 
 # [물리기반 렌더링](https://www.youtube.com/watch?v=DIEv3Uw1leo&list=PLW_uvsSPlijvMY-6Y-0I-bi4tlUFKEuFK&index=41&t=0s)
 
@@ -156,6 +159,8 @@
 
 # [C# 하악하악~](https://www.youtube.com/watch?v=C_FKj9lSvmM&list=PLW_uvsSPlijvMY-6Y-0I-bi4tlUFKEuFK&index=45&t=0s)
 
+내가 가장 편리하게 쓰는언어는 C#이다. VS의 강력함, 문서화 잘 되어있음
+툴만들어도 UI예쁘게나온다. 최흥배님에게 들었는데 서버에서도 쓴다. 
 
 # [번역자 되는법](https://www.youtube.com/watch?v=p-975o4VjIM&list=PLW_uvsSPlijvMY-6Y-0I-bi4tlUFKEuFK&index=46&t=0s)
 
@@ -168,6 +173,7 @@
 
 # [KGC 후기를 가장한 뇌물광고.. (응?)](https://www.youtube.com/watch?v=zCrMzOtM4R0&list=PLW_uvsSPlijvMY-6Y-0I-bi4tlUFKEuFK&index=48&t=0s)
 
+프라우드넷 배현직사장님께 티셔츠를 받았다. 넷텐션 등등 주절주절
 
 # [언리얼 엔진에서 지원하는 머테리얼 레이어](https://www.youtube.com/watch?v=MlqMUdkItcY&list=PLW_uvsSPlijvMY-6Y-0I-bi4tlUFKEuFK&index=49&t=0s)
 
@@ -337,9 +343,16 @@
 
 # [싱글스레드 게임루프](https://www.youtube.com/watch?v=szajbNjiERk&list=PLW_uvsSPlijvMY-6Y-0I-bi4tlUFKEuFK&index=92&t=0s)
 
+기본적인 로직은 싱글스레드로 짜고 잡테스크 시스템을 이용하자
+
 
 # [프라우드넷을 인수하라](https://www.youtube.com/watch?v=0kqdnogk7K0&list=PLW_uvsSPlijvMY-6Y-0I-bi4tlUFKEuFK&index=93&t=0s)
 
+유니티가 UNET을 만든다고 하는데 프라우드넷 인수하면 안되나?
+
+이런 서비스들이 생기면서 게임계에서 서버 프로그래머가 더 힘들어지지 않을까?
+
+후에 펄어비스가 인수해갔음
 
 # [유토피아](https://www.youtube.com/watch?v=cRnITB0Y0nk&list=PLW_uvsSPlijvMY-6Y-0I-bi4tlUFKEuFK&index=94&t=0s)
 
@@ -465,6 +478,9 @@
 
 # [미터를 쓰자](https://www.youtube.com/watch?v=L8gqbp2fepU&list=PLW_uvsSPlijvMY-6Y-0I-bi4tlUFKEuFK&index=119&t=0s)
 
+게임 월드에서 미터를 쓰면 좋은 이유
+float관련 문제가있으니 큰단위보단 미터를 쓰자
+
 
 # [진정한 리더](https://www.youtube.com/watch?v=I8IvMJh1DzU&list=PLW_uvsSPlijvMY-6Y-0I-bi4tlUFKEuFK&index=120&t=0s)
 
@@ -487,6 +503,8 @@
 
 
 # [센티미터를 쓰자](https://www.youtube.com/watch?v=xRS78FBRA5Y&list=PLW_uvsSPlijvMY-6Y-0I-bi4tlUFKEuFK&index=126&t=0s)
+
+미터를 쓰자를 뒤엎음 센티미터를 쓰자
 
 
 # [조지아테크 업데이트 1](https://www.youtube.com/watch?v=Fi0ESruRB1E&list=PLW_uvsSPlijvMY-6Y-0I-bi4tlUFKEuFK&index=127&t=0s)
@@ -759,9 +777,12 @@
 
 # [뭐? 3D 프린팅 자격증?](https://www.youtube.com/watch?v=273f7zNgGIY&list=PLW_uvsSPlijvMY-6Y-0I-bi4tlUFKEuFK&index=187&t=0s)
 
+아무의미없다.
 
 # [3D 프린팅의 현상태](https://www.youtube.com/watch?v=zvCuXSbl9d4&list=PLW_uvsSPlijvMY-6Y-0I-bi4tlUFKEuFK&index=188&t=0s)
 
+회사에서 문제가 대량생산에는 무리가있다 실패율이 높다
+표준이 안나와서 잘모르겠다.
 
 # [팀챗, 힙챗, 슬랙](https://www.youtube.com/watch?v=7RP76GWNJcQ&list=PLW_uvsSPlijvMY-6Y-0I-bi4tlUFKEuFK&index=189&t=0s)
 
@@ -919,6 +940,9 @@
 
 # [소프트웨어 vs 건축 설계사](https://www.youtube.com/watch?v=0BoSW7a9BNE&list=PLW_uvsSPlijvMY-6Y-0I-bi4tlUFKEuFK&index=216&t=0s)
 
+일반적인 소프트웨어와 건축 설계사는 다르다.
+소프트웨어는 완벽하게 하려면 비즈니스적으로 손해가 나기에 어느정도 타협을 해야한다. 오버 엔지니어링을 견제해야한다
+
 
 # [메타프로그래밍은 나쁘다](https://www.youtube.com/watch?v=a6BQphLoTag&list=PLW_uvsSPlijvMY-6Y-0I-bi4tlUFKEuFK&index=217&t=0s)
 
@@ -979,6 +1003,9 @@
 
 # [3D 프린팅 사기꾼](https://www.youtube.com/watch?v=m8p0e63Ndvw&list=PLW_uvsSPlijvMY-6Y-0I-bi4tlUFKEuFK&index=229&t=0s)
 
+3d프린팅한다는 사람다 믿지말라 사기꾼이다.
+어떤 유행어가 나와도 사기꾼이 나온다.
+이런 사기꾼들이 많아서 엔젤투자자들이 많이 없어진거같다.
 
 # [전기차는 환경보호?](https://www.youtube.com/watch?v=3S2AH439iRs&list=PLW_uvsSPlijvMY-6Y-0I-bi4tlUFKEuFK&index=230&t=0s)
 
@@ -1025,6 +1052,10 @@
 
 
 # [원칙(소신)있는 코딩](https://www.youtube.com/watch?v=-MG4orjA-IM&list=PLW_uvsSPlijvMY-6Y-0I-bi4tlUFKEuFK&index=243&t=0s)
+
+스타일은 일관적으로 하자.
+일관적으로 했을때의 장점과 단점이 명확해지기에 그 단점만 조심하면된다.
+중구난방적으로 짜는 것은 각각의 장점 단점이 모두 섞이기에 문제다
 
 
 # [Typeless 언어](https://www.youtube.com/watch?v=Has3suZ2qws&list=PLW_uvsSPlijvMY-6Y-0I-bi4tlUFKEuFK&index=244&t=0s)
@@ -1210,6 +1241,9 @@
 
 # [숫자놀이 회사정치](https://www.youtube.com/watch?v=H0eRk03cCbU&list=PLW_uvsSPlijvMY-6Y-0I-bi4tlUFKEuFK&index=292&t=0s)
 
+게임을 마무리해주려고 회사를 들어갔었는데 기한을 맞추기위해 최적화를 해야하는데 정확한 데이터는 없지만 내 경험에 의해서 이부분이 아마 가장 많이 줄일 수 있는 부분이라고 얘기를 했는데 시니어 프로그래머가 확실하게 세이브되는지 정확하지 않은데 시작하면 안된다고 태클을 걸었다.
+시니어는 주위의 판단도 빨리 내릴 수 있어야한다고 생각한다.
+무조건 정확한 데이터에 근거해서 자기 방어만을 위한것도 정치라고 생각한다
 
 # [좀비 사태에 대한 대비](https://www.youtube.com/watch?v=mIGD3HQoqTU&list=PLW_uvsSPlijvMY-6Y-0I-bi4tlUFKEuFK&index=293&t=0s)
 
@@ -1270,6 +1304,10 @@
 
 # [나는 금수저? 흙수저?](https://www.youtube.com/watch?v=gaG5LfNsBHc&list=PLW_uvsSPlijvMY-6Y-0I-bi4tlUFKEuFK&index=300&t=0s)
 
+돈이 많으면 좋지만 꼭 성공하는건 아닌거같다. 개인의 능력도 중요하다.
+부자아빠 가난한 아빠란 책을 봤는데 작가에게 논란은 있을지 언정 책은 맞는거같다.
+
+
 
 # [null이란 무엇인가?](https://www.youtube.com/watch?v=N08BSA3rwhU&list=PLW_uvsSPlijvMY-6Y-0I-bi4tlUFKEuFK&index=301&t=0s)
 
@@ -1302,6 +1340,16 @@
 6. IOS도 내려고 생각중(출시함)
 
 # [최악의 직원](https://www.youtube.com/watch?v=VCX5tPdGpmg&list=PLW_uvsSPlijvMY-6Y-0I-bi4tlUFKEuFK&index=309&t=0s)
+1. 남 뒷담화 까는 사람
+2. 잘 모르면서 일을 독단으로 진행하는 사람
+3. 자기가 잘못한 걸 아니라고 발뺌하는 사람
+4. 남들 사정 고려 안 하고 지 하고 싶은 대로 하는 사람
+5.남의 아이디어 지 것처럼 훔쳐 쓰는 사람
+6. 안건에 대해 제대로 이해도 못 하고 지껄이는 사람
+
+성선설 성악설
+
+사람의 분포가 각각 절반이라고 생각한다 근데 이들이 만나서 생기는 사회가 1/4확률의 악-악은 존재할수없는 사회 1/2 확률의 선-악 은 선이 뜯기다가 떠나는 사회 1/4의 선-선만이 제대로 돌아가는 사회가 되니 따라서 75퍼센트가 제대로 돌아가지않는다.
 
 
 # [이직결정표 만들기](https://www.youtube.com/watch?v=wDzl8Gj1N0A&list=PLW_uvsSPlijvMY-6Y-0I-bi4tlUFKEuFK&index=310&t=0s)
@@ -1795,6 +1843,7 @@
 
 # [도서: 포프TV 1권 출간](https://www.youtube.com/watch?v=9atSPcYu5No&list=PLW_uvsSPlijvMY-6Y-0I-bi4tlUFKEuFK&index=419&t=0s)
 
+책출간했어요
 
 # [싸게 회사 홈페이지 만들기](https://www.youtube.com/watch?v=hiTD_C_rf-0&list=PLW_uvsSPlijvMY-6Y-0I-bi4tlUFKEuFK&index=420&t=0s)
 
@@ -1853,6 +1902,9 @@
 
 # [만원의 가치](https://www.youtube.com/watch?v=1uyvPooQzWI&list=PLW_uvsSPlijvMY-6Y-0I-bi4tlUFKEuFK&index=432&t=0s)
 
+포프tv 1권 나왔는데 친구가 책이 비싸다고 할인을 해달라고했다.
+이책이 만원정도인데 이정도에 비디오를 안보고 이 책을 통해 정보를 얻을 수 있는 것은 돈의 가치가 있다고 생각한다.
+비싸다고 생각하면 포프tv다보면됨
 
 # [코딩스탠다드: 람다](https://www.youtube.com/watch?v=HDWB64VS1MY&list=PLW_uvsSPlijvMY-6Y-0I-bi4tlUFKEuFK&index=433&t=0s)
 
