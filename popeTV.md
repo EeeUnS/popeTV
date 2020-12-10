@@ -103,7 +103,10 @@
 
 
 # [개발자 오래 해먹으려면...](https://www.youtube.com/watch?v=9romm_vlpKA&list=PLW_uvsSPlijvMY-6Y-0I-bi4tlUFKEuFK&index=29&t=0s)
-
+운동하자. 내가 운동하는 이유
+1. 프로그래밍을 하기위해서
+2. 술 먹어도 다음날이 멀쩡하다
+3. 여성에게 매력적으로 보이는것도 좋은듯하다
 
 # [KGC 2013에서 뵙겠습니다](https://www.youtube.com/watch?v=uiovKnVmIyU&list=PLW_uvsSPlijvMY-6Y-0I-bi4tlUFKEuFK&index=30&t=0s)
 
@@ -515,6 +518,11 @@ float관련 문제가있으니 큰단위보단 미터를 쓰자
 
 # [프로그래머로 살아남는 법](https://www.youtube.com/watch?v=CGmKMz-KOJw&list=PLW_uvsSPlijvMY-6Y-0I-bi4tlUFKEuFK&index=129&t=0s)
 
+프로그래머로 승진하고 성공할 수 있는길은 두가지라고 본다.
+1. 실력적으로 뛰어난 사람 : 어느정도 수준이 되면 그 누구도 못건드는 상태가 된다.
+2. 정치를 잘하는 사람 : 오래 못가고 어느 수준에서 짤리면 집에서 노는 경우를 많이 봤다
+
+전자인사람이 많았으면 좋겠다
 
 # [관찰력](https://www.youtube.com/watch?v=9AvcAl_ic3A&list=PLW_uvsSPlijvMY-6Y-0I-bi4tlUFKEuFK&index=130&t=0s)
 
@@ -931,6 +939,16 @@ float관련 문제가있으니 큰단위보단 미터를 쓰자
 
 # [다시 게임프로그래머](https://www.youtube.com/watch?v=XWxEQLmW1Fg&list=PLW_uvsSPlijvMY-6Y-0I-bi4tlUFKEuFK&index=213&t=0s)
 
+# [북미취업 2016](https://youtu.be/WQwE7hTDYLc)
+
+1. 북미취업가이드책은
+2. 유학을 오고 공립 대학을 졸업하고 취직을하면 워킹비자가 나온다. 그걸로 1~2년 일하면서 영주권신청도 가능하게된다.
+3. 부부가 한명이 학교를가면 워킹비자가 곧바로 나온다 그걸로 직장잡아서 일하는 분도 있다.
+4. 한국에 있고 실력이 좋아서 곧바로 해외에 취직해서 곧바로 오는것 이게 가장 시간을 아끼는 방법이다.
+5. 경력자에게 추천하는 방법이다. 경력자가 아니면 가능하면 올생각 말라고한다
+6. 북미취업 쉽지않다.
+7. 자기계발서를 읽으면서 난 이렇게하면 될거야라고 생각하지말자 이거는 자세를 얘기하는거고 어떤 방향으로 가야한다는걸 얘기하는건데 이부분을 싹 빼고 생각하지말자.
+
 
 # [[게임개발자분류] 애니메이터 / 리거](https://www.youtube.com/watch?v=PwKUO5VzSi0&list=PLW_uvsSPlijvMY-6Y-0I-bi4tlUFKEuFK&index=214&t=0s)
 
@@ -997,9 +1015,20 @@ float관련 문제가있으니 큰단위보단 미터를 쓰자
 
 # [선입견을 가져라](https://www.youtube.com/watch?v=Q5EuiZkzOH0&list=PLW_uvsSPlijvMY-6Y-0I-bi4tlUFKEuFK&index=227&t=0s)
 
+1. 선입견을 가지는건 도움이 된다.
+2. 선입견이 틀렸을때 인정하는게 중요하다.
+3. 교도소에 들어간 사람들의 두개골 형태를 분석했더니 다른 사람과 차이가 난다는 결과가 있더라. 이게 굉장히 비판을 많이 받았는데 그뒤로 dna가 발전하고 결과적으로 범죄자가 나올 확률이 굉장히 높은 dna임이 밝혀졌다.
+4. 과거에 선입견이라고 했던 부분이 과학적이나 머신러닝으로 증명까진아니고 굉장히 개연성이 높아진게 보여지고 있다.
 
 # [LeftPad 대첩과 패키지관리](https://www.youtube.com/watch?v=yED8Q3YVomw&list=PLW_uvsSPlijvMY-6Y-0I-bi4tlUFKEuFK&index=228&t=0s)
 
+굉장히 사람들이 많이 쓰던 leftpad라는 문자열을 정렬해주는 라이브러리가 한동안 못쓰게 된적이 있다.
+저자가 npm쪽하고 마찰이 있어서 홧김에 지웟다고 하더라 수많은 자바스크립트 오픈 소스 프로젝트가 안돌게 됬다
+이때 한 개발자가 고작 11줄짜리 패키지를 라이브러리를 왜 쓰냐는 주장에 반대측은
+- 재 사용성을 위한것
+- 검증된거니 좋다.
+라는 반박을 했다. 하지만 여기에 한가지 헛점은 많은 사람이 쓴다고 버그가 없을거라는 것이다.
+이런 얘기는 아무튼 회사입장에서는 이런 라이브러리가 다운됐다고 했을때 못쓰게 되는건 말이 안된다. 퍼블릭 레포에 의존하면 안된다. 퍼블릭 레포를 다운받아서 사설 레포에 올려서 언제든지 라이브로 나갈 준비를 해야한다.
 
 # [3D 프린팅 사기꾼](https://www.youtube.com/watch?v=m8p0e63Ndvw&list=PLW_uvsSPlijvMY-6Y-0I-bi4tlUFKEuFK&index=229&t=0s)
 
@@ -1393,7 +1422,6 @@ float관련 문제가있으니 큰단위보단 미터를 쓰자
 - 이렇게 해줌에도 안믿는 사람들이 있다.
 - 실수를 많이 하는 사람들의 대부분이 이런 성향인 사람들이다.
 - 이런 성향인 사람들은 베품을 받으면서도 고마움을 잘 모르는 사람이고 패턴적으로 여러가지가 나온다
-- 
 
 
 
@@ -1740,6 +1768,13 @@ float관련 문제가있으니 큰단위보단 미터를 쓰자
 
 # [코드몽키의 미래](https://www.youtube.com/watch?v=aLyi0SkuKmY&list=PLW_uvsSPlijvMY-6Y-0I-bi4tlUFKEuFK&index=392&t=0s)
 
+1. 닷컴버블의 역사, 사회의 발전 
+2. 프로그래밍에도 점점 산업화가 되어가고있는것 같다.
+3. 이제 중점은 일반 사무직이 얼마나 프로그래밍을 할까이다. 
+   1. 손으로 할것을 자동화시키는 사람들도 분명히 있을거고 사무직도 코딩을 점점할거다 
+   2. 코딩 교육이 들어오면서 사람들이 프로그래밍을 또 입문을 하게 될거다
+4. 프로그래밍이 기본 기술이 되가는것같다 그래서 누구나 하게 되면서 인력이 늘어나고 점점 저렴해질거다.
+5. 대부분의 학교는 코드몽키를 양성하고있다.
 
 # [비트코인 투자?](https://www.youtube.com/watch?v=uqZ6MiDp8JM&list=PLW_uvsSPlijvMY-6Y-0I-bi4tlUFKEuFK&index=393&t=0s)
 
@@ -1818,6 +1853,8 @@ float관련 문제가있으니 큰단위보단 미터를 쓰자
 
 
 # [같은 시간대의 장단점](https://www.youtube.com/watch?v=f-rI8CLClBE&list=PLW_uvsSPlijvMY-6Y-0I-bi4tlUFKEuFK&index=411&t=0s)
+
+나라가 크면 시간대가 달라서 실시간 소통이 힘들다 따라서 이런 부분에서 메일을 쓰는 등 지원이 잘되어있지만. 한국을 보면 해외의 지원이 굉장히 빈약하고 불편하다. 카카오톡이 이 부분에서 해외에서 뜨지 못한것 같다.
 
 
 # [포프티비 검색엔진 소개](https://www.youtube.com/watch?v=7bhohKCFi-U&list=PLW_uvsSPlijvMY-6Y-0I-bi4tlUFKEuFK&index=412&t=0s)
@@ -2298,5 +2335,14 @@ remind 차냥해
 
 
 
+
+
+
+
+버그가 생기는 이유와 기초 예방법
+
+1. 바운더리 케이스 확인
+2. 데이터타입이 표현할수있는 다른 값을 넣어봐야한다.
+3. 널체크
 
 
