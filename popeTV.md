@@ -196,6 +196,11 @@
 
 # [새로운 메모리 디버깅 기능?](https://www.youtube.com/watch?v=po0zv1ZxkFw&list=PLW_uvsSPlijvMY-6Y-0I-bi4tlUFKEuFK&index=54&t=0s)
 
+- 타임머신 디버깅이라는 개념을 가지고있는 인베디드 쪽에서 디버거가 있더라.
+- 그런 디버깅 기능이 있었으면 좋겠다.
+- 
+
+
 
 # [버전컨트롤 시스템 쓰세요](https://www.youtube.com/watch?v=VLKsntz2ga0&list=PLW_uvsSPlijvMY-6Y-0I-bi4tlUFKEuFK&index=55&t=0s)
 
@@ -209,6 +214,10 @@
 
 # [규칙을 지키는 놈만 손해다?](https://www.youtube.com/watch?v=Dos6h0J5ro0&list=PLW_uvsSPlijvMY-6Y-0I-bi4tlUFKEuFK&index=57&t=0s)
 
+- 아마존 무료배송 문제가 있더라.
+- 규칙이 안지키던 놈때문에 규칙이 계속 늘어나는데 규칙 안지키던놈들은 처음부터 안지켜서 지키던 사람만 불편해진다.
+- 문제가 생기면 시스템을 고치려하는 것보다 문제를 고쳐라
+- 극단적으로 사람이 문제면 사람을 짤라라
 
 # [내가 쓰는 C++11: Range-Based For](https://www.youtube.com/watch?v=sVoz36DYK5s&list=PLW_uvsSPlijvMY-6Y-0I-bi4tlUFKEuFK&index=58&t=0s)
 
@@ -242,6 +251,11 @@
 
 
 # [효율적인 프로그래머](https://www.youtube.com/watch?v=aZM-ldh1rxU&list=PLW_uvsSPlijvMY-6Y-0I-bi4tlUFKEuFK&index=67&t=0s)
+
+
+- 효율적인 프로그래머는 타이핑 속도도 신경쓴다
+- 단축키도 외우고 어떻게 해서든 효율을 올리려고 하더라.
+- 누구는 페달을 이용해서라도 타이핑 속도를 올리려고 했다. 
 
 
 # [쓸데없는 매일 아침회의](https://www.youtube.com/watch?v=weYPailEWZc&list=PLW_uvsSPlijvMY-6Y-0I-bi4tlUFKEuFK&index=68&t=0s)
@@ -373,6 +387,8 @@
 
 # [넥슨과 섬노예](https://www.youtube.com/watch?v=Po7INQYQRaY&list=PLW_uvsSPlijvMY-6Y-0I-bi4tlUFKEuFK&index=97&t=0s)
 
+- 갑질이다.
+- 직원의 의사와 상관없이 지멋대로 근무지를 막 옮기는건 부당하다.
 
 # [게임이 접히는 이유](https://www.youtube.com/watch?v=j1KkMMLAGZI&list=PLW_uvsSPlijvMY-6Y-0I-bi4tlUFKEuFK&index=98&t=0s)
 
@@ -608,6 +624,10 @@ float관련 문제가있으니 큰단위보단 미터를 쓰자
 
 # [C++ 표준에 대한 불만](https://www.youtube.com/watch?v=lFlJuxxOoW8&list=PLW_uvsSPlijvMY-6Y-0I-bi4tlUFKEuFK&index=148&t=0s)
 
+- c++ 표준이 최근 굉장히 마음에 안든다
+- 내부적으로 어떻게 돌지 감이 안잡힌다.
+- 가독성도 해한다.
+- 쓰라고 하다가 쓰지말랬다가 지멋대로다.
 
 # [왼손/오른손 좌표계](https://www.youtube.com/watch?v=UpqhInULZK4&list=PLW_uvsSPlijvMY-6Y-0I-bi4tlUFKEuFK&index=149&t=0s)
 
@@ -1052,7 +1072,13 @@ float관련 문제가있으니 큰단위보단 미터를 쓰자
 
 # [일 확실히 끝내기](https://www.youtube.com/watch?v=tXOnSpdljUY&list=PLW_uvsSPlijvMY-6Y-0I-bi4tlUFKEuFK&index=233&t=0s)
 
-
+- 일 처리를 빨리하는 사람 중에 제대로 못하는 사람은 빨리하는 사람이라 안본다
+- 우리가 필요한 정보는 생각보다 공개되어있는 정보인 경우가 많다.
+- 내가 예측했던 하루가 바뀌는게 너무싫다
+- 내가 직접 찾아보고 확인하는게 성장하는데 도움된거같다.
+- 일을 다시 할일이 없게 확실하게 끝내는 사람이 일을 잘한다.
+- 너무 시간을 많이 끄는것도 좋진않다.
+- 중간중간 내가 하고잇는게 잘한건지 피드백 받는게 중요하다.
 # [C++17 모듈시스템!](https://www.youtube.com/watch?v=3FJTKJC8V-A&list=PLW_uvsSPlijvMY-6Y-0I-bi4tlUFKEuFK&index=234&t=0s)
 
 
@@ -1117,6 +1143,10 @@ float관련 문제가있으니 큰단위보단 미터를 쓰자
 
 
 # [기회는 왔을때 잡는다](https://www.youtube.com/watch?v=21jUVgp8nhA&list=PLW_uvsSPlijvMY-6Y-0I-bi4tlUFKEuFK&index=253&t=0s)
+
+- 안될거 같은걸 한다고하고 죽어라해서 해낸다. 
+- 기회는 등장하는거고 운이라고 할 수 있지만 기회를 잡아서 나에게 유리하게 바꾸는건 개인이 하기 나름이다.
+- 나는 누가 남잘되는거 운이 되게 좋았다 이런거 말하는거 싫어한다
 
 
 # [공짜 과외선생을 한 이유](https://www.youtube.com/watch?v=T92ZvMiw-hk&list=PLW_uvsSPlijvMY-6Y-0I-bi4tlUFKEuFK&index=254&t=0s)
@@ -1383,6 +1413,7 @@ float관련 문제가있으니 큰단위보단 미터를 쓰자
 
 # [이직결정표 만들기](https://www.youtube.com/watch?v=wDzl8Gj1N0A&list=PLW_uvsSPlijvMY-6Y-0I-bi4tlUFKEuFK&index=310&t=0s)
 
+- 가중치를 두고 엑셀로 점수화 하니 생각보다 확실하게 나온다.
 
 # [[보안] HTTPS를 싸게](https://www.youtube.com/watch?v=nf6NnD7V8Eg&list=PLW_uvsSPlijvMY-6Y-0I-bi4tlUFKEuFK&index=311&t=0s)
 
@@ -1436,6 +1467,13 @@ float관련 문제가있으니 큰단위보단 미터를 쓰자
 
 # [거지의 경제학](https://www.youtube.com/watch?v=k6fjWt5Xmz8&list=PLW_uvsSPlijvMY-6Y-0I-bi4tlUFKEuFK&index=324&t=0s)
 
+- 대학교다닐때 여학생이 나한테 왜 그렇게 거지같이 다니니라는 질문을 받은적 있다.
+- 한국 사회는 모두를 보통수준으로 몰아가는거 같다.
+- 이렇게 거지같이사는건 나한테 엄청 도움됐다.
+- 거지같이 사니까 돈도 많이 모이니까, 내 자유도가 좀 더 있더라.
+- 카메라 왜 없냐고 너무 뭐라하더라
+- 내가 정말 원하는거는 내가 뭔가 하고싶을때 할 수 있는 자유다.
+
 
 # [디버깅과 코드학습](https://www.youtube.com/watch?v=EDB80WZ0rQk&list=PLW_uvsSPlijvMY-6Y-0I-bi4tlUFKEuFK&index=325&t=0s)
 
@@ -1444,6 +1482,13 @@ float관련 문제가있으니 큰단위보단 미터를 쓰자
 
 
 # [대학까지 나왔는데](https://www.youtube.com/watch?v=9wQSDAvVdxQ&list=PLW_uvsSPlijvMY-6Y-0I-bi4tlUFKEuFK&index=327&t=0s)
+
+- 사회는 어쨌든 상대적이라 본다.
+- 대학은 이미 너도 나도 나왔으니 상향평준화 됐고 의미가 없다.
+- 일단 대학 수가 너무 많다.
+- 학자금 대출이 마음에 안든다. 쉽게 나오고 정부가 돈을 빌려줘서 학교에서 학생들을 교육의 질을 높일 생각도 안하는거 같다.
+- 대학나온다고 인생풀리는건 아니다.
+
 
 
 # [컴퓨터 관리능력도 개발자의 자질](https://www.youtube.com/watch?v=vXLwrhEPfSM&list=PLW_uvsSPlijvMY-6Y-0I-bi4tlUFKEuFK&index=328&t=0s)
@@ -1781,6 +1826,8 @@ float관련 문제가있으니 큰단위보단 미터를 쓰자
 
 # [비트코인과 세금](https://www.youtube.com/watch?v=ofSrplsHXq4&list=PLW_uvsSPlijvMY-6Y-0I-bi4tlUFKEuFK&index=394&t=0s)
 
+1. 미국의 비트코인 세금 방식과 캐나다의 비트코인 세금 방식
+2. 내용 많음
 
 # [프로그래밍 첫 입문 전자책](https://www.youtube.com/watch?v=0Hbq3En8xvw&list=PLW_uvsSPlijvMY-6Y-0I-bi4tlUFKEuFK&index=395&t=0s)
 
@@ -1934,6 +1981,12 @@ float관련 문제가있으니 큰단위보단 미터를 쓰자
 # [포트폴리오의 가치 및 의미](https://www.youtube.com/watch?v=rquI6w4gLIs&list=PLW_uvsSPlijvMY-6Y-0I-bi4tlUFKEuFK&index=430&t=0s)
 
 
+- 프로그래머에게 있어서 포트폴리오만으로는 취업못하고 인사부 통과용
+- 기술면접이 더 중요함
+- 포트폴리오는 졸업할때 완성되어있어야한다.
+- 과제한거, 개선한거 비디오로 찍든 사진으로 찍든 방학때 만들자.
+
+
 # [치과](https://www.youtube.com/watch?v=514u5NapLks&list=PLW_uvsSPlijvMY-6Y-0I-bi4tlUFKEuFK&index=431&t=0s)
 
 
@@ -1958,6 +2011,13 @@ float관련 문제가있으니 큰단위보단 미터를 쓰자
 
 # [GitHub 인수와 GitLab 으로의 이주](https://www.youtube.com/watch?v=Z1zgMMw0YWw&list=PLW_uvsSPlijvMY-6Y-0I-bi4tlUFKEuFK&index=435&t=0s)
 
+- gitlab 별로다.
+- 오픈소스 진영에서 반마소로 너무 감정적으로 행동하지 않았으면 좋겠다.
+- 마소의 깃헙을 사들인거는 애져를 직접적으로 꽂는걸 하는게 직접적인 이유같다.
+- 마소가 깃헙에 직접적으로 들어가면서 여러가지 문제를 고침으로서 더 좋은것 같다.
+- 마소가 오픈소스에 기여한것도 생각보다 크다.
+
+
 
 # [Reverse OOP 패턴](https://www.youtube.com/watch?v=GnWASmocihE&list=PLW_uvsSPlijvMY-6Y-0I-bi4tlUFKEuFK&index=436&t=0s)
 
@@ -1969,6 +2029,9 @@ float관련 문제가있으니 큰단위보단 미터를 쓰자
 
 
 # [퀄리티 안나오는 사람들의 특징](https://www.youtube.com/watch?v=xUieIoMo3r8&list=PLW_uvsSPlijvMY-6Y-0I-bi4tlUFKEuFK&index=439&t=0s)
+
+- 실수를 만드려는 여지를 없애지 않는사람
+- 정말 열심히하는데도 안되는 사람은 0.1% 정도 되더라
 
 
 # [C#  밸리데이션 애트리뷰트와 값 타입 변수](https://www.youtube.com/watch?v=3Qk5twvND0Q&list=PLW_uvsSPlijvMY-6Y-0I-bi4tlUFKEuFK&index=440&t=0s)
@@ -1995,6 +2058,9 @@ float관련 문제가있으니 큰단위보단 미터를 쓰자
 
 # [믿음과 학습속도](https://www.youtube.com/watch?v=UOloBnuxQeM&list=PLW_uvsSPlijvMY-6Y-0I-bi4tlUFKEuFK&index=447&t=0s)
 
+- 배우는게 빠르고 성장이 빠른 사람은 믿음이 좀 더 강한거 같다.
+- 내가 아는것과 모르는것을 정확하게 안다.
+- 한사람을 믿고 따라서 배우는게 성장속도가 빠르다.
 
 # [모바일 페이의 승자?](https://www.youtube.com/watch?v=eoRKq73rLWc&list=PLW_uvsSPlijvMY-6Y-0I-bi4tlUFKEuFK&index=448&t=0s)
 
@@ -2014,6 +2080,9 @@ float관련 문제가있으니 큰단위보단 미터를 쓰자
 
 # [연령대별 해야할 일](https://www.youtube.com/watch?v=ya_irhS28s8&list=PLW_uvsSPlijvMY-6Y-0I-bi4tlUFKEuFK&index=451&t=0s)
 
+- 20 30대는 발로 뛰어서 실력을 쌓고
+- 30대 중반을 넘어가면 자기가 쌓아온걸 자기만의 카피캣을 만들어라 이때 가장 열심히 살수있고 돈을 많이 벌 수 있다.
+- 충분히 돈을 벌고 돈으로 돈을 벌어라
 
 # [공용 인프라로서의 블록체인](https://www.youtube.com/watch?v=eXPZ3rk8BTw&list=PLW_uvsSPlijvMY-6Y-0I-bi4tlUFKEuFK&index=452&t=0s)
 
@@ -2065,9 +2134,13 @@ float관련 문제가있으니 큰단위보단 미터를 쓰자
 
 # [법의 무늬와 목적](https://www.youtube.com/watch?v=oWVrVFESOqM&list=PLW_uvsSPlijvMY-6Y-0I-bi4tlUFKEuFK&index=465&t=0s)
 
+- 법은 지키려고하는 목적이 있다.
+- 법조항을 교묘하게 비껴간다고해서 법상에 문제가 안되는건 아니다.
+-  라이선스를 교묘히 피해간 스타트업 얘기
 
 # [공짜 고객상담 솔루션](https://www.youtube.com/watch?v=89P5k9je4Mo&list=PLW_uvsSPlijvMY-6Y-0I-bi4tlUFKEuFK&index=466&t=0s)
 
+- freshdesk란 공짜고객상담 플랫폼 소개
 
 # [기술면접 후 복습하시나요?](https://www.youtube.com/watch?v=upjdEnM3qEQ&list=PLW_uvsSPlijvMY-6Y-0I-bi4tlUFKEuFK&index=467&t=0s)
 
@@ -2197,6 +2270,11 @@ remind 차냥해
 # [일정시간 근무 vs 일정업무(시간 상관없음) 중 선호하는 것은?](https://www.youtube.com/watch?v=NIuGHQ_CO1w&list=PLW_uvsSPlijvMY-6Y-0I-bi4tlUFKEuFK&index=495&t=0s)
 
 
+- 4 hour work week
+- 나는 하고싶은걸 하기위해서 기타의 일들을 정리를 했다.
+- 하고싶은거 다하면서 성장 못한다고 징징대지말자.
+
+
 # [아니, 너만 틀리다니까?](https://www.youtube.com/watch?v=Bpwg2MVAEUQ&list=PLW_uvsSPlijvMY-6Y-0I-bi4tlUFKEuFK&index=496&t=0s)
 
 작은 것에 빨리빨리 책임소재를 한명에게 확실하게 지우고 일을 효율적으로 돌리자
@@ -2293,6 +2371,13 @@ remind 차냥해
 
 # [유연근무제 조심하세요](https://www.youtube.com/watch?v=zpDDrKiz2lg&list=PLW_uvsSPlijvMY-6Y-0I-bi4tlUFKEuFK&index=520&t=0s)
 
+- 주 4일 10시간 근무 어떨까
+- 장점이 많다 
+  - 출퇴근시간 줄어듦
+  - 하루쉴때 개인업무 볼 수 있음
+- 유연근무는  90퍼센트 확률로 돌기 힘들다.
+  - 집중을 못한다. (8시간도 제대로 집중을 못하는데..) 업무량이 떨어질 수 있다.
+  - 유연해짐으로서 감시가 줄어들때 업무효율성이 떨어질 수 있다.
 
 # [주인의식을 가져라](https://www.youtube.com/watch?v=540QyAQvUYU&list=PLW_uvsSPlijvMY-6Y-0I-bi4tlUFKEuFK&index=521&t=0s)
 
