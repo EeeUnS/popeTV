@@ -698,7 +698,27 @@ float관련 문제가있으니 큰단위보단 미터를 쓰자
 - exception이 반드시 필요한 경우는 있다
   - 코드가 내가 소유한 코드가 아닐때 서드파티 라이브러리에서 익셉션 던질때
   - 파일io
-- 익셉션 대충 쓰면은 디버깅하기가 너무 힘들다.
+- 어떻게 쓰느냐가 굉장히 중요.
+- 아예 exception이 날 때 crash가 나면 그때 고칠수라도있는데 대충 handling 하면 오히려 이게 나중가서 뻗어버리니까 오히려 디버깅하기가 너무 힘들다.
+- 언어에서 지원을 이상하게해서 굉장히 제대로 쓰기도 어렵고 개념적으로 사람들이 쉽게 생각할수있는 순차적인 구조도아니다.
+- 예전에 사람들이 잘못쓰던 패턴으로 반환값을 여러개하기위해 내부에서 exception 던진다음에 caller에서 그걸 잡아서 쓰는 기괴한 패턴도있다.
+- exception의 문제가 크게 뭐였냐면 그 함수의 코드를 까보지않는한 무슨 exception이 던져지는지 모른다
+- 코드를 호출한 다음에 이런 exception도 발생할 수 있는데 이것을 처리하는것도 함수를 호출할때마다 생각해야하며 처리할때도 이게 올바로 처리하는건가를 고민하게 된다.
+- 어떤경우는 exception을 당연히 예측을 하고 문제없이 처리해서 프로그램이 계속 돌게 해야하는 경우도있고 어떤경우는 logging을 한경우에 뻗게해야하는 경우도 있다
+- joel spolsky의 경우는 자신읜 옛날 C스타일의 error 코드가 좋다. 
+- 옛날 C스타일의 함수를 보면 exception없이 error 코드 반환하고 마지막 error 가 뭐였는지 보는 방식이 좋다고 생각하는데 function signature를 보는것만으로도 error 코드가 오는걸 안다. 그 error 코드를 가지고 어떻게 처리해야될지 생각을 할 수 있다. 따라서 함수를 까보지않아도 무엇을 대비해야하는지 알 수 있게된다.
+- exception같은거는 함수 signature만보곤 알 수가 없어서 문제가 생긴다(자바는 예외)
+- 중요한것은 exception을 어떻게 처리하는가가 중요한것이아닌 현재 프로그램의 상태가 고장나지않는것이 가장 중요하다.
+- 근데 이게 정말 어렵다. C#은 프로그램 외부의 context에서도 들어오기도한다고 하더라 이걸 어떻게 해야하냐.
+- 내가 exception을 많이 쓰는 결과 회사에서 진짜 제대로 exception handling하는걸 못봤다. 제대로 할래도 놓치는게 많다.
+- 그냥 wrapper하나 많들어서 debug 상황에서는 assert를 넣고 release에서는 assert를 감추고 exception으로 가는 방향을 생각하는데 쉽지않다.
+- C#, C++에서는 exception날때 breakpoint걸어주는 그런 디버그 툴도 있긴하다.
+- exception은 안쓰고도돌수있으면 안쓰는게 좋은것같다.
+- C#에서 예를들어 int.Parse가 있고 int.TryParse가 있는데 얘는 parse의 경우 exception을 던지고 tryParse는 리턴이 parse의 성공여부가 boolean으로 되어있고 인자가 outParmeter로 되어있다. error 코드 비슷한 방향인데 딱 감이온다. 이 방향이 바람직한것같다.
+- 이런걸 생각하면서 코드짜는것은 중요한것같다.
+- 그리고 요즘 회사에서 도는 이상한 코드중에 좀 실력없는 애들 코드는 exception이 어디서 발생하는지 개념도 없고 웹 api 호출 전체에 try catch걸어서 처리하는 사람도 봤다 좀 한심한거같다.
+- 호출나는경우는 DB긁을때나 파일 긁을때나 다른 웹호출할때나 아니면 정말 코드에서 이상한 일을 할때 등 외부 dependency가 없으면 거의 안난다고 생각하면되는데 그거 생각안하고 모두다 try catch하면은 exception나도 어디서 났는지 알기도 힘들고 코드 읽기도 드러워지고 로깅도안하고 이러는데 차라리 exception 나면 throw하고 exception 메세지를 debug 모드에서 웹브라우저에로 보는게 편하다
+- 좋은 프로그래머가 되려면 코드한줄한줄에 이유가 있어야한다 맞고 틀린건 중요한게아니다.
 
 # [[또 헛소리] 좌측, 우측통행?](https://www.youtube.com/watch?v=4Bd3L5wc7_M&list=PLW_uvsSPlijvMY-6Y-0I-bi4tlUFKEuFK&index=164&t=0s)
 
@@ -735,11 +755,11 @@ float관련 문제가있으니 큰단위보단 미터를 쓰자
 # [exception 버리기](https://www.youtube.com/watch?v=YGOE5CEkX0o&list=PLW_uvsSPlijvMY-6Y-0I-bi4tlUFKEuFK&index=171&t=0s)
 
 - 소프트웨어 아키텍트 클래스를 갔다
-- 거기서 exception은 exception 마스킹을 하라고한다.
+- 거기서 내가 만든 서비스 안에서 익셉션이 나는경우 exception은 exception 마스킹을 하라고한다.
 - 익셉션이 난건 이미 그자체가 큰 에러다. 모든게 깨져야한다.
 - 내 서비스 안에서 try catch를 하고 익셉션이 발생했다는 정보하나만 반환을 하게한다.
-- 그리고 디버깅 정보는 내부서버에 로깅을 하고 보고 체크한다.
-
+- 그리고 호출쪽에서는 그냥 뻗게하라고 디버깅은 해야하니 익셉션 내부에서 난 경우 익셉션을 로깅은 해야한다.
+- 요즘 각광받는 익셉션 처리방식인것같다.
 
 # [개발 프로세스 헛소리좀 그만](https://www.youtube.com/watch?v=e50zjkJ8kh0&list=PLW_uvsSPlijvMY-6Y-0I-bi4tlUFKEuFK&index=172&t=0s)
 
