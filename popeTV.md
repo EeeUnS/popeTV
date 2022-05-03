@@ -44,9 +44,15 @@
 
 
 # [노동법위반 게임회사](https://www.youtube.com/watch?v=zio_1Yu9WO0&list=PLW_uvsSPlijvMY-6Y-0I-bi4tlUFKEuFK&index=14&t=0s)
+썰]]
 
+회사시간에 이벤트하는걸 연차를 깐다는 얘기를 들음
+그거 노동법 위반이다
+잘하는 사람들 다 나가고 회사 망한다
+그 따위로 하지마라
 
 # [꽃미남 서강대 교수님](https://www.youtube.com/watch?v=XhFu0j0fBw8&list=PLW_uvsSPlijvMY-6Y-0I-bi4tlUFKEuFK&index=15&t=0s)
+근황]]
 
 서강대 게임교육원에 강연을 한번했었는데 학교측에서 좋게봐주셔서 초빙교수가 되었다.
 
@@ -809,6 +815,12 @@ float관련 문제가있으니 큰단위보단 미터를 쓰자
 3. 회사에서 누군가 잘못을 판단할때도 이렇게 판단하면 내가 잘못했다는것을 알 수도있다. 이렇게하는게 차라리 안 쪽팔리고 좋다
 
 # [주 8시간 근무](https://www.youtube.com/watch?v=mP3qs3Ct7J8&list=PLW_uvsSPlijvMY-6Y-0I-bi4tlUFKEuFK&index=182&t=0s)
+근황]]
+
+2개월정도 대기상태에 있어서 사표를 냈다.
+나중에 일 생기면 다시 파트타임으로 와서 일해줄게라고 했는데
+그러다 일주일에 하루만 일하는걸로 합의가 됐다. 그렇게 주 8시간 근무가 되어버렸다
+
 
 
 # [한국인 영어발음의 문제](https://www.youtube.com/watch?v=AC87Nj-pUA4&list=PLW_uvsSPlijvMY-6Y-0I-bi4tlUFKEuFK&index=183&t=0s)
@@ -818,6 +830,16 @@ float관련 문제가있으니 큰단위보단 미터를 쓰자
 
 
 # [투덜이 스머프 직장인](https://www.youtube.com/watch?v=wgNQ7FinMvo&list=PLW_uvsSPlijvMY-6Y-0I-bi4tlUFKEuFK&index=185&t=0s)
+
+썰]]
+회사에 투덜이 스머프가 있다
+두가지가 있다
+- 회사맘에 안드는거 뒤에서 까면서 스트레스 푸는 유형
+- 정말 마음에 안드는거 고치려는거 
+
+제대로 자기 일 안하면서 투덜대는 사람 제일 싫어한다.
+회사 힘들다고 빼고 노는거 다 놀고 투덜대는거 싫다
+프로그래머는 두뇌쓰는 직종인데 시간수당받는거 반대한다 
 
 
 # [빨강은 255 0 0?](https://www.youtube.com/watch?v=JUJqxlgo8RI&list=PLW_uvsSPlijvMY-6Y-0I-bi4tlUFKEuFK&index=186&t=0s)
@@ -853,6 +875,8 @@ float관련 문제가있으니 큰단위보단 미터를 쓰자
 
 
 # [민폐주는 시니어](https://www.youtube.com/watch?v=2dgVJ_xxBEw&list=PLW_uvsSPlijvMY-6Y-0I-bi4tlUFKEuFK&index=194&t=0s)
+
+썰
 
 - 회사에 실력 없는 시니어가 있다
 - 실력도 없었고 질문의 자세가 안되어있더라
@@ -2163,7 +2187,7 @@ float관련 문제가있으니 큰단위보단 미터를 쓰자
 - freshdesk란 공짜고객상담 플랫폼 소개
 
 # [기술면접 후 복습하시나요?](https://www.youtube.com/watch?v=upjdEnM3qEQ&list=PLW_uvsSPlijvMY-6Y-0I-bi4tlUFKEuFK&index=467&t=0s)
-
+취업]]
 
 1. 기술면접보고 복습해라.
 2. 자세를 고쳐라
@@ -2197,7 +2221,7 @@ remind 차냥해
 
 
 # [프로그래머의 수치: 복구 불가능한 버그](https://www.youtube.com/watch?v=6qpb2sq-UH4&list=PLW_uvsSPlijvMY-6Y-0I-bi4tlUFKEuFK&index=476&t=0s)
-
+코딩]]
 
 - 핵은 해도되는데 되돌릴 수 없는 핵은 만들면 안된다.
 - 버그는 생겨도 어쩔 수 없다.
@@ -2209,7 +2233,7 @@ remind 차냥해
 
 
 # [익명성의 순기능, 솔직한 피드백 등](https://www.youtube.com/watch?v=koj7e6461VM&list=PLW_uvsSPlijvMY-6Y-0I-bi4tlUFKEuFK&index=478&t=0s)
-
+생각]]
 
 1. 친구한테 내 단점이 뭐니? 하고 물었더니 너무 당황해 했더라
 2. 사람들은 드러나지 않으면서도 피드백을 들을수있는걸 좋아하더라.
@@ -2229,6 +2253,7 @@ remind 차냥해
 
 
 # [꿈과 야망을 강요하는 사회](https://www.youtube.com/watch?v=TfexLywi2bs&list=PLW_uvsSPlijvMY-6Y-0I-bi4tlUFKEuFK&index=483&t=0s)
+생각]]
 
 1. 요즘 라이브하는데 꿈이 어떠니 저떠니 질문이 많더라
 2. 옛날에는 가족부양을 하는것에 초점이 맞춰져있었다.
@@ -2241,10 +2266,25 @@ remind 차냥해
 
 
 # [면접관에게 자기소개서란](https://www.youtube.com/watch?v=pna1BsRF6sI&list=PLW_uvsSPlijvMY-6Y-0I-bi4tlUFKEuFK&index=485&t=0s)
+취업]]
 
+외국회사는 자소서 달라 잘 안한다.
+북미와 한국의 이력서가 다르다
+이력서가 북미는 한국에비해 내용이 좀 길다.
+
+한국에 자소서가 북미의 이력서를 좀 반영하고있다.
+
+여러 문제들
+1. 자기표현을 잘 못함, 모르는거 빨리 모른다고해야하는데 일단 알겠다고 하고 넘어간다는 등
+2. 어떤 일을 해라는 걸 정말 그것만 하고 끝냄, 일반적으로 전체적인 바운더리를 고려를 못함 
+3. 한국어의 문제이기도한데 목적어 주어 생략이 자유롭다보니 서로 이해를 제대로 못하고 다르게 일이 진행되는 경우가 있더라, 이걸 글로 쓰면 좀 명확하게 할 수 있음
+4. 메타인지능력이 떨어진다 
+
+이런 문제들을 자소서를 받으면 이걸 좀 더 알수 있지않을까
+글실력, 생각하는 능력을 볼 수 있다.
 
 # [면접관이 기술면접에서 보는 것](https://www.youtube.com/watch?v=QOqUrMzOTcw&list=PLW_uvsSPlijvMY-6Y-0I-bi4tlUFKEuFK&index=486&t=0s)
-
+취업]]
 
 - 경력 중간에 공백 기간이 있으면 엄청나게 안좋게 본다.
 - 전문가라고 절대 적지 마라. 질문으로 개털린다.
@@ -2257,6 +2297,33 @@ remind 차냥해
 
 
 # [면접 중 장점/단점 질문은 어떻게 답변해야 하지?](https://www.youtube.com/watch?v=niWwCko_Yo8&list=PLW_uvsSPlijvMY-6Y-0I-bi4tlUFKEuFK&index=487&t=0s)
+
+이 질문은 과연 왜 하는 걸까.
+
+장점 : 
+내 장점을 설명하지 못 해
+면접관입장에서
+- 겸손하다 => 주눅들어있는 사람아닐까 수동적인 사람아닐까 
+- 자기자신을 모른다 
+
+
+개인입장에선
+- 정말 객관적으로 뛰어난 사람일때 설명하기 애매하다.
+
+어떤 대답을 해도 면접관은 의심을 하게 되는거아닌가
+
+장점은 그냥 좋은거 대충 말하고 넘어가면 된다. 
+꿀팁인데 예시 하나 들수있으면 들어라
+
+
+단점 : 
+
+말하는 사람입장에선 단점을 취업이 안될 정도의 단점을 얘기를 할 수 없다
+
+이게 무슨 의미가 있는지 모르겠다 아님 이미 단점을 다 고쳤는데 남은 단점은 내 장점을 위하거나 딱히 문제가 아니라고 생각해서 고치지 않기로 한것이 있음
+자아성찰의 끝판왕
+
+결론 : 장점 : 과욕되지않고 겸손하게 + 객관화 / 단점: 단점인데 장점인거 처럼 보여주자 단점을 해결하기위해 뭘하고 잇는질 말하자.
 
 
 # [스팸 메시지와 에티켓](https://www.youtube.com/watch?v=W5hITTL-D2M&list=PLW_uvsSPlijvMY-6Y-0I-bi4tlUFKEuFK&index=488&t=0s)
@@ -2305,6 +2372,8 @@ remind 차냥해
 
 # [프로그래머를 위한 수학](https://www.youtube.com/watch?v=kjB10cuweTM&list=PLW_uvsSPlijvMY-6Y-0I-bi4tlUFKEuFK&index=498&t=0s)
 
+근황]]
+
 1. 수학 이번에 강의 준비한다고 엄청 머리 굴렸다.
 2. 진짜 프로그래머를 위한 수학을 준비하려고 많이 노력했다.
 3. 증명을 뺐다. 컴퓨터의 숫자 체계를 많이 넣었다.
@@ -2312,6 +2381,14 @@ remind 차냥해
 5. 그렇게 나온 강의가 주위 사람들이 칭찬 많이 해주더라
 
 # [프로그래밍 언어가 이렇게 단순할 수가?](https://www.youtube.com/watch?v=erEP75JVrbc&list=PLW_uvsSPlijvMY-6Y-0I-bi4tlUFKEuFK&index=499&t=0s)
+
+생각]]
+
+내 어린시절 프로그래밍 시작
+
+표준이 약간 미약하긴하지만 언어적인 측면에서 이것보다 간단할 수가 있을까?
+어셈보단 쓰기 편하지만 복잡한 개념이 없다.
+언어가 너무 깔끔하다.
 
 
 # [오픈소스에 대해 어떻게 생각하나요?](https://www.youtube.com/watch?v=Ag6fvBGF79k&list=PLW_uvsSPlijvMY-6Y-0I-bi4tlUFKEuFK&index=500&t=0s)
@@ -2339,6 +2416,7 @@ remind 차냥해
 
 
 # [올바른 변수 이름 짓는 법](https://www.youtube.com/watch?v=ZtkIwGZZAq8&list=PLW_uvsSPlijvMY-6Y-0I-bi4tlUFKEuFK&index=508&t=0s)
+프로그래밍]]
 
 댓글 참고
 - 변수이름에 명사를쓰며 동사를 쓰지않는다
@@ -2364,6 +2442,11 @@ remind 차냥해
 
 
 # [외주자는 회사정치에 신경 안 씁니다](https://www.youtube.com/watch?v=Ey9Vq-5DbOA&list=PLW_uvsSPlijvMY-6Y-0I-bi4tlUFKEuFK&index=512&t=0s)
+
+썰]]
+
+게임 외주로 들어갔다 회사 내부가 좀 개판이었다. 외주자가 회사를 위해서 감정낭비 시간낭비를 할 필욘 없다. 그냥 잠깐 일한거 돈 안받는걸로하고  끝냈음 
+회사의 직원이면 팀이 어떻게 돌던 회사가 잘 돌게 하기위해 고민하고 노력한다 근데 외주는 아님
 
 
 # [과연 코칭이 가능한가?](https://www.youtube.com/watch?v=Dl3_HenQ60g&list=PLW_uvsSPlijvMY-6Y-0I-bi4tlUFKEuFK&index=513&t=0s)
@@ -2451,3 +2534,11 @@ remind 차냥해
 3. 널체크
 
 
+
+
+]]
+- 생각
+- 썰
+- 근황
+- 코딩
+- 취업
