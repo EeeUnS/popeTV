@@ -1866,6 +1866,11 @@ float관련 문제가있으니 큰단위보단 미터를 쓰자
 
 # [버그이야기 - 개발자의 거짓말](https://www.youtube.com/watch?v=9dQXI-TTfMc&list=PLW_uvsSPlijvMY-6Y-0I-bi4tlUFKEuFK&index=401&t=0s)
 
+- 스키게임을 만들었는데 CD에서 메모리를 읽어오는게 너무 느려서 속도가 너무 빨라지면 화면 업데이트가 느려져서 구멍에 빠져서 죽더라 속도 너무 빨라지면 죽게했음
+- 메모리 릭이 4byte씩 나는 부분이 있었는데 기기 박살나려면 얼마나 걸리나 계산하니까 천시간정도 게임 돌려야 했어서 안고침 -_-; 
+- 바이오웨어 :  안되는거 사기쳐서 언리얼엔진에서 전화옴. 
+- 측정 콘솔에서 하드웨어 그래픽 성능에 버그가 있어서 성능이 제대로 안나오는 문제가 있었음, 해당 명령어 부분에선 사이클 딜레이가 걸리는 거였음. 그래서 그 회사에서 컴파일러로 명령어 실행순서를 random하게 섞으면서 명령어 병목현상이 나오는 부분이 최대한 적게 나오는 random number seed를 구하자 회사 퇴근할때 모든 컴퓨터를 병렬로 테스트를 돌려서 그렇게 성능을 평균 80%정도 올림
+
 
 # [안에서만 새는 바가지?](https://www.youtube.com/watch?v=oq7MKQVShr0&list=PLW_uvsSPlijvMY-6Y-0I-bi4tlUFKEuFK&index=402&t=0s)
 
@@ -1880,6 +1885,12 @@ float관련 문제가있으니 큰단위보단 미터를 쓰자
 
 # [버그이야기: 콘솔 제조사의 삽질](https://www.youtube.com/watch?v=gcMPW5KVekA&list=PLW_uvsSPlijvMY-6Y-0I-bi4tlUFKEuFK&index=404&t=0s)
 
+썰이야기
+
+- 삼각형 하드웨어 클리퍼가 버그가 있어서 이걸 직접 만듬 당연히 하드웨어에서 지원해주는 기능을 소프트웨어로 만들다보니 너무 느려서 어셈으로 짬..
+- 어떤 하드웨어 스펙이 xy가 반대로 되어있음 그래서 회전해서 출력하게 만듬
+하드웨어가 왜 이지랄이날까? 마소 xbox가 제일 멀쩡함.
+마소짱짱
 
 # [내부 vs 외주 팀](https://www.youtube.com/watch?v=Px2cyRpcDAk&list=PLW_uvsSPlijvMY-6Y-0I-bi4tlUFKEuFK&index=405&t=0s)
 
@@ -1889,6 +1900,9 @@ float관련 문제가있으니 큰단위보단 미터를 쓰자
 
 # [버그이야기: 스페이스 마린 편](https://www.youtube.com/watch?v=aLDJxMD-840&list=PLW_uvsSPlijvMY-6Y-0I-bi4tlUFKEuFK&index=407&t=0s)
 
+- 움직이는 물체가 총알을 맞았을때 총알 박힌 표시가 안떴는데 바빠서 안함
+- 보스한테 총을 쏘는데 한번씩 수직으로 나가는 경우가 있더라 확률이 많진 않았는데 진행에 문제있는 부분은 아니라서 못고치고 나감
+- 보스전 이전에 몹들 잡는 상태가있는데 어떤 몹이 오다가 장애물에 막혀서 못나오는데 또 총으로는 못죽이는 케이스가 있더라 이거 고치기 힘들어서 그냥 몇분이상 시간지나면 자동으로 죽게 만들었음
 
 # [언어별 부모 생성자 호출 방법](https://www.youtube.com/watch?v=VmKgyZfyggo&list=PLW_uvsSPlijvMY-6Y-0I-bi4tlUFKEuFK&index=408&t=0s)
 
@@ -1980,6 +1994,7 @@ float관련 문제가있으니 큰단위보단 미터를 쓰자
 
 # [포트폴리오의 가치 및 의미](https://www.youtube.com/watch?v=rquI6w4gLIs&list=PLW_uvsSPlijvMY-6Y-0I-bi4tlUFKEuFK&index=430&t=0s)
 
+취업]]
 
 - 프로그래머에게 있어서 포트폴리오만으로는 취업못하고 인사부 통과용
 - 기술면접이 더 중요함
