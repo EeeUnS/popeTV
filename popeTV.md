@@ -44,9 +44,15 @@
 
 
 # [노동법위반 게임회사](https://www.youtube.com/watch?v=zio_1Yu9WO0&list=PLW_uvsSPlijvMY-6Y-0I-bi4tlUFKEuFK&index=14&t=0s)
+썰]]
 
+회사시간에 이벤트하는걸 연차를 깐다는 얘기를 들음
+그거 노동법 위반이다
+잘하는 사람들 다 나가고 회사 망한다
+그 따위로 하지마라
 
 # [꽃미남 서강대 교수님](https://www.youtube.com/watch?v=XhFu0j0fBw8&list=PLW_uvsSPlijvMY-6Y-0I-bi4tlUFKEuFK&index=15&t=0s)
+근황]]
 
 서강대 게임교육원에 강연을 한번했었는데 학교측에서 좋게봐주셔서 초빙교수가 되었다.
 
@@ -451,12 +457,20 @@
 
 # [야근과 자기발전](https://www.youtube.com/watch?v=UlqNxG95CRE&list=PLW_uvsSPlijvMY-6Y-0I-bi4tlUFKEuFK&index=109&t=0s)
 
+생각]]
 
-1. 망해가는 회사에서 엄청 큰 프로젝트를 맡았다.
-2. 이 프로젝트 때문에 프로젝트 진행 팀 전체가 야근을 엄청했다.
-3. 그 프로젝트를 성공적이게 끝냈다.
-4. 그 성공을 바탕으로 같이 일한 팀원들의 입지도 오르고 직급도 오르고 연봉도 많이 올랐다.
-5. 무조건 야근은 하지말자가아니라 자신의 미래에 도움되는 야근을 하자
+나 야근하는거 안좋아한다 그대신 일하는 시간에 확실하게 집중해서 하자는 마인드
+야근을 하니 개인발전이 없구나
+회사에서 시키는 일 열심히해서 느는게 별로 없다
+처음 신입은 당연히 도움 많이 된다. 1년 정도 
+야근을 안하고 집에오면 코딩을 좀해보는데 절반은 회사에 도움이 되더라.
+야근을 하면 개인시간이 없다.
+나는 내가 발전을 해서 내가 어디라도 옮길 수 있고 뭐라도 할 수 있는 위치에 있는게 가장 중요한 마인드고
+
+야근을 피할 수는 없다
+
+회사에서 10년 20년 충성하면서 줄만 잘 서가지고 살아남으면 상관없는데 거기서 살아남을 확률이나 자기가 코딩 열심히해서 성공할 확률이나 비슷하더라 
+
 
 
 # [난 직설적인 회사가 좋다](https://www.youtube.com/watch?v=UvPzP4nKaCw&list=PLW_uvsSPlijvMY-6Y-0I-bi4tlUFKEuFK&index=110&t=0s)
@@ -698,7 +712,27 @@ float관련 문제가있으니 큰단위보단 미터를 쓰자
 - exception이 반드시 필요한 경우는 있다
   - 코드가 내가 소유한 코드가 아닐때 서드파티 라이브러리에서 익셉션 던질때
   - 파일io
-- 익셉션 대충 쓰면은 디버깅하기가 너무 힘들다.
+- 어떻게 쓰느냐가 굉장히 중요.
+- 아예 exception이 날 때 crash가 나면 그때 고칠수라도있는데 대충 handling 하면 오히려 이게 나중가서 뻗어버리니까 오히려 디버깅하기가 너무 힘들다.
+- 언어에서 지원을 이상하게해서 굉장히 제대로 쓰기도 어렵고 개념적으로 사람들이 쉽게 생각할수있는 순차적인 구조도아니다.
+- 예전에 사람들이 잘못쓰던 패턴으로 반환값을 여러개하기위해 내부에서 exception 던진다음에 caller에서 그걸 잡아서 쓰는 기괴한 패턴도있다.
+- exception의 문제가 크게 뭐였냐면 그 함수의 코드를 까보지않는한 무슨 exception이 던져지는지 모른다
+- 코드를 호출한 다음에 이런 exception도 발생할 수 있는데 이것을 처리하는것도 함수를 호출할때마다 생각해야하며 처리할때도 이게 올바로 처리하는건가를 고민하게 된다.
+- 어떤경우는 exception을 당연히 예측을 하고 문제없이 처리해서 프로그램이 계속 돌게 해야하는 경우도있고 어떤경우는 logging을 한경우에 뻗게해야하는 경우도 있다
+- joel spolsky의 경우는 자신읜 옛날 C스타일의 error 코드가 좋다. 
+- 옛날 C스타일의 함수를 보면 exception없이 error 코드 반환하고 마지막 error 가 뭐였는지 보는 방식이 좋다고 생각하는데 function signature를 보는것만으로도 error 코드가 오는걸 안다. 그 error 코드를 가지고 어떻게 처리해야될지 생각을 할 수 있다. 따라서 함수를 까보지않아도 무엇을 대비해야하는지 알 수 있게된다.
+- exception같은거는 함수 signature만보곤 알 수가 없어서 문제가 생긴다(자바는 예외)
+- 중요한것은 exception을 어떻게 처리하는가가 중요한것이아닌 현재 프로그램의 상태가 고장나지않는것이 가장 중요하다.
+- 근데 이게 정말 어렵다. C#은 프로그램 외부의 context에서도 들어오기도한다고 하더라 이걸 어떻게 해야하냐.
+- 내가 exception을 많이 쓰는 결과 회사에서 진짜 제대로 exception handling하는걸 못봤다. 제대로 할래도 놓치는게 많다.
+- 그냥 wrapper하나 많들어서 debug 상황에서는 assert를 넣고 release에서는 assert를 감추고 exception으로 가는 방향을 생각하는데 쉽지않다.
+- C#, C++에서는 exception날때 breakpoint걸어주는 그런 디버그 툴도 있긴하다.
+- exception은 안쓰고도돌수있으면 안쓰는게 좋은것같다.
+- C#에서 예를들어 int.Parse가 있고 int.TryParse가 있는데 얘는 parse의 경우 exception을 던지고 tryParse는 리턴이 parse의 성공여부가 boolean으로 되어있고 인자가 outParmeter로 되어있다. error 코드 비슷한 방향인데 딱 감이온다. 이 방향이 바람직한것같다.
+- 이런걸 생각하면서 코드짜는것은 중요한것같다.
+- 그리고 요즘 회사에서 도는 이상한 코드중에 좀 실력없는 애들 코드는 exception이 어디서 발생하는지 개념도 없고 웹 api 호출 전체에 try catch걸어서 처리하는 사람도 봤다 좀 한심한거같다.
+- 호출나는경우는 DB긁을때나 파일 긁을때나 다른 웹호출할때나 아니면 정말 코드에서 이상한 일을 할때 등 외부 dependency가 없으면 거의 안난다고 생각하면되는데 그거 생각안하고 모두다 try catch하면은 exception나도 어디서 났는지 알기도 힘들고 코드 읽기도 드러워지고 로깅도안하고 이러는데 차라리 exception 나면 throw하고 exception 메세지를 debug 모드에서 웹브라우저에로 보는게 편하다
+- 좋은 프로그래머가 되려면 코드한줄한줄에 이유가 있어야한다 맞고 틀린건 중요한게아니다.
 
 # [[또 헛소리] 좌측, 우측통행?](https://www.youtube.com/watch?v=4Bd3L5wc7_M&list=PLW_uvsSPlijvMY-6Y-0I-bi4tlUFKEuFK&index=164&t=0s)
 
@@ -735,11 +769,11 @@ float관련 문제가있으니 큰단위보단 미터를 쓰자
 # [exception 버리기](https://www.youtube.com/watch?v=YGOE5CEkX0o&list=PLW_uvsSPlijvMY-6Y-0I-bi4tlUFKEuFK&index=171&t=0s)
 
 - 소프트웨어 아키텍트 클래스를 갔다
-- 거기서 exception은 exception 마스킹을 하라고한다.
+- 거기서 내가 만든 서비스 안에서 익셉션이 나는경우 exception은 exception 마스킹을 하라고한다.
 - 익셉션이 난건 이미 그자체가 큰 에러다. 모든게 깨져야한다.
 - 내 서비스 안에서 try catch를 하고 익셉션이 발생했다는 정보하나만 반환을 하게한다.
-- 그리고 디버깅 정보는 내부서버에 로깅을 하고 보고 체크한다.
-
+- 그리고 호출쪽에서는 그냥 뻗게하라고 디버깅은 해야하니 익셉션 내부에서 난 경우 익셉션을 로깅은 해야한다.
+- 요즘 각광받는 익셉션 처리방식인것같다.
 
 # [개발 프로세스 헛소리좀 그만](https://www.youtube.com/watch?v=e50zjkJ8kh0&list=PLW_uvsSPlijvMY-6Y-0I-bi4tlUFKEuFK&index=172&t=0s)
 
@@ -789,6 +823,12 @@ float관련 문제가있으니 큰단위보단 미터를 쓰자
 3. 회사에서 누군가 잘못을 판단할때도 이렇게 판단하면 내가 잘못했다는것을 알 수도있다. 이렇게하는게 차라리 안 쪽팔리고 좋다
 
 # [주 8시간 근무](https://www.youtube.com/watch?v=mP3qs3Ct7J8&list=PLW_uvsSPlijvMY-6Y-0I-bi4tlUFKEuFK&index=182&t=0s)
+근황]]
+
+2개월정도 대기상태에 있어서 사표를 냈다.
+나중에 일 생기면 다시 파트타임으로 와서 일해줄게라고 했는데
+그러다 일주일에 하루만 일하는걸로 합의가 됐다. 그렇게 주 8시간 근무가 되어버렸다
+
 
 
 # [한국인 영어발음의 문제](https://www.youtube.com/watch?v=AC87Nj-pUA4&list=PLW_uvsSPlijvMY-6Y-0I-bi4tlUFKEuFK&index=183&t=0s)
@@ -798,6 +838,16 @@ float관련 문제가있으니 큰단위보단 미터를 쓰자
 
 
 # [투덜이 스머프 직장인](https://www.youtube.com/watch?v=wgNQ7FinMvo&list=PLW_uvsSPlijvMY-6Y-0I-bi4tlUFKEuFK&index=185&t=0s)
+
+썰]]
+회사에 투덜이 스머프가 있다
+두가지가 있다
+- 회사맘에 안드는거 뒤에서 까면서 스트레스 푸는 유형
+- 정말 마음에 안드는거 고치려는거 
+
+제대로 자기 일 안하면서 투덜대는 사람 제일 싫어한다.
+회사 힘들다고 빼고 노는거 다 놀고 투덜대는거 싫다
+프로그래머는 두뇌쓰는 직종인데 시간수당받는거 반대한다 
 
 
 # [빨강은 255 0 0?](https://www.youtube.com/watch?v=JUJqxlgo8RI&list=PLW_uvsSPlijvMY-6Y-0I-bi4tlUFKEuFK&index=186&t=0s)
@@ -833,6 +883,8 @@ float관련 문제가있으니 큰단위보단 미터를 쓰자
 
 
 # [민폐주는 시니어](https://www.youtube.com/watch?v=2dgVJ_xxBEw&list=PLW_uvsSPlijvMY-6Y-0I-bi4tlUFKEuFK&index=194&t=0s)
+
+썰
 
 - 회사에 실력 없는 시니어가 있다
 - 실력도 없었고 질문의 자세가 안되어있더라
@@ -1689,6 +1741,16 @@ float관련 문제가있으니 큰단위보단 미터를 쓰자
 
 # [야근과 자기발전 2](https://www.youtube.com/watch?v=eEI5iwI0H0c&list=PLW_uvsSPlijvMY-6Y-0I-bi4tlUFKEuFK&index=366&t=0s)
 
+생각]] 썰]]
+
+1. 야근이 나에게 도움이 된다면 하는것도 좋다.
+2. 망해가는 회사에서 엄청 큰 프로젝트를 맡았다.
+3. 이 프로젝트 때문에 프로젝트 진행 팀 전체가 야근을 엄청했다.
+4. 그 프로젝트를 성공적이게 끝냈다.
+5. 그 성공을 바탕으로 같이 일한 팀원들의 입지도 오르고 직급도 오르고 연봉도 많이 올랐다.
+6. 그때 같이 일했던 친구들 중 믿을만한 친구들을 많이 사귀었고 신뢰관계, 후에 채용하는데도 많이 장점이 되었다. 
+7. 무조건 야근은 하지말자가아니라 자신의 미래에 도움되는 야근을 하자
+
 
 # [게임기획 나올동안 프로그래머는 뭐하나](https://www.youtube.com/watch?v=-TIvsISUApk&list=PLW_uvsSPlijvMY-6Y-0I-bi4tlUFKEuFK&index=367&t=0s)
 
@@ -2158,7 +2220,7 @@ float관련 문제가있으니 큰단위보단 미터를 쓰자
 - freshdesk란 공짜고객상담 플랫폼 소개
 
 # [기술면접 후 복습하시나요?](https://www.youtube.com/watch?v=upjdEnM3qEQ&list=PLW_uvsSPlijvMY-6Y-0I-bi4tlUFKEuFK&index=467&t=0s)
-
+취업]]
 
 1. 기술면접보고 복습해라.
 2. 자세를 고쳐라
@@ -2192,7 +2254,7 @@ remind 차냥해
 
 
 # [프로그래머의 수치: 복구 불가능한 버그](https://www.youtube.com/watch?v=6qpb2sq-UH4&list=PLW_uvsSPlijvMY-6Y-0I-bi4tlUFKEuFK&index=476&t=0s)
-
+코딩]]
 
 - 핵은 해도되는데 되돌릴 수 없는 핵은 만들면 안된다.
 - 버그는 생겨도 어쩔 수 없다.
@@ -2204,7 +2266,7 @@ remind 차냥해
 
 
 # [익명성의 순기능, 솔직한 피드백 등](https://www.youtube.com/watch?v=koj7e6461VM&list=PLW_uvsSPlijvMY-6Y-0I-bi4tlUFKEuFK&index=478&t=0s)
-
+생각]]
 
 1. 친구한테 내 단점이 뭐니? 하고 물었더니 너무 당황해 했더라
 2. 사람들은 드러나지 않으면서도 피드백을 들을수있는걸 좋아하더라.
@@ -2224,6 +2286,7 @@ remind 차냥해
 
 
 # [꿈과 야망을 강요하는 사회](https://www.youtube.com/watch?v=TfexLywi2bs&list=PLW_uvsSPlijvMY-6Y-0I-bi4tlUFKEuFK&index=483&t=0s)
+생각]]
 
 1. 요즘 라이브하는데 꿈이 어떠니 저떠니 질문이 많더라
 2. 옛날에는 가족부양을 하는것에 초점이 맞춰져있었다.
@@ -2236,10 +2299,25 @@ remind 차냥해
 
 
 # [면접관에게 자기소개서란](https://www.youtube.com/watch?v=pna1BsRF6sI&list=PLW_uvsSPlijvMY-6Y-0I-bi4tlUFKEuFK&index=485&t=0s)
+취업]]
 
+외국회사는 자소서 달라 잘 안한다.
+북미와 한국의 이력서가 다르다
+이력서가 북미는 한국에비해 내용이 좀 길다.
+
+한국에 자소서가 북미의 이력서를 좀 반영하고있다.
+
+여러 문제들
+1. 자기표현을 잘 못함, 모르는거 빨리 모른다고해야하는데 일단 알겠다고 하고 넘어간다는 등
+2. 어떤 일을 해라는 걸 정말 그것만 하고 끝냄, 일반적으로 전체적인 바운더리를 고려를 못함 
+3. 한국어의 문제이기도한데 목적어 주어 생략이 자유롭다보니 서로 이해를 제대로 못하고 다르게 일이 진행되는 경우가 있더라, 이걸 글로 쓰면 좀 명확하게 할 수 있음
+4. 메타인지능력이 떨어진다 
+
+이런 문제들을 자소서를 받으면 이걸 좀 더 알수 있지않을까
+글실력, 생각하는 능력을 볼 수 있다.
 
 # [면접관이 기술면접에서 보는 것](https://www.youtube.com/watch?v=QOqUrMzOTcw&list=PLW_uvsSPlijvMY-6Y-0I-bi4tlUFKEuFK&index=486&t=0s)
-
+취업]]
 
 - 경력 중간에 공백 기간이 있으면 엄청나게 안좋게 본다.
 - 전문가라고 절대 적지 마라. 질문으로 개털린다.
@@ -2252,6 +2330,33 @@ remind 차냥해
 
 
 # [면접 중 장점/단점 질문은 어떻게 답변해야 하지?](https://www.youtube.com/watch?v=niWwCko_Yo8&list=PLW_uvsSPlijvMY-6Y-0I-bi4tlUFKEuFK&index=487&t=0s)
+
+이 질문은 과연 왜 하는 걸까.
+
+장점 : 
+내 장점을 설명하지 못 해
+면접관입장에서
+- 겸손하다 => 주눅들어있는 사람아닐까 수동적인 사람아닐까 
+- 자기자신을 모른다 
+
+
+개인입장에선
+- 정말 객관적으로 뛰어난 사람일때 설명하기 애매하다.
+
+어떤 대답을 해도 면접관은 의심을 하게 되는거아닌가
+
+장점은 그냥 좋은거 대충 말하고 넘어가면 된다. 
+꿀팁인데 예시 하나 들수있으면 들어라
+
+
+단점 : 
+
+말하는 사람입장에선 단점을 취업이 안될 정도의 단점을 얘기를 할 수 없다
+
+이게 무슨 의미가 있는지 모르겠다 아님 이미 단점을 다 고쳤는데 남은 단점은 내 장점을 위하거나 딱히 문제가 아니라고 생각해서 고치지 않기로 한것이 있음
+자아성찰의 끝판왕
+
+결론 : 장점 : 과욕되지않고 겸손하게 + 객관화 / 단점: 단점인데 장점인거 처럼 보여주자 단점을 해결하기위해 뭘하고 잇는질 말하자.
 
 
 # [스팸 메시지와 에티켓](https://www.youtube.com/watch?v=W5hITTL-D2M&list=PLW_uvsSPlijvMY-6Y-0I-bi4tlUFKEuFK&index=488&t=0s)
@@ -2300,6 +2405,8 @@ remind 차냥해
 
 # [프로그래머를 위한 수학](https://www.youtube.com/watch?v=kjB10cuweTM&list=PLW_uvsSPlijvMY-6Y-0I-bi4tlUFKEuFK&index=498&t=0s)
 
+근황]]
+
 1. 수학 이번에 강의 준비한다고 엄청 머리 굴렸다.
 2. 진짜 프로그래머를 위한 수학을 준비하려고 많이 노력했다.
 3. 증명을 뺐다. 컴퓨터의 숫자 체계를 많이 넣었다.
@@ -2307,6 +2414,14 @@ remind 차냥해
 5. 그렇게 나온 강의가 주위 사람들이 칭찬 많이 해주더라
 
 # [프로그래밍 언어가 이렇게 단순할 수가?](https://www.youtube.com/watch?v=erEP75JVrbc&list=PLW_uvsSPlijvMY-6Y-0I-bi4tlUFKEuFK&index=499&t=0s)
+
+생각]]
+
+내 어린시절 프로그래밍 시작
+
+표준이 약간 미약하긴하지만 언어적인 측면에서 이것보다 간단할 수가 있을까?
+어셈보단 쓰기 편하지만 복잡한 개념이 없다.
+언어가 너무 깔끔하다.
 
 
 # [오픈소스에 대해 어떻게 생각하나요?](https://www.youtube.com/watch?v=Ag6fvBGF79k&list=PLW_uvsSPlijvMY-6Y-0I-bi4tlUFKEuFK&index=500&t=0s)
@@ -2334,6 +2449,7 @@ remind 차냥해
 
 
 # [올바른 변수 이름 짓는 법](https://www.youtube.com/watch?v=ZtkIwGZZAq8&list=PLW_uvsSPlijvMY-6Y-0I-bi4tlUFKEuFK&index=508&t=0s)
+프로그래밍]]
 
 댓글 참고
 - 변수이름에 명사를쓰며 동사를 쓰지않는다
@@ -2359,6 +2475,11 @@ remind 차냥해
 
 
 # [외주자는 회사정치에 신경 안 씁니다](https://www.youtube.com/watch?v=Ey9Vq-5DbOA&list=PLW_uvsSPlijvMY-6Y-0I-bi4tlUFKEuFK&index=512&t=0s)
+
+썰]]
+
+게임 외주로 들어갔다 회사 내부가 좀 개판이었다. 외주자가 회사를 위해서 감정낭비 시간낭비를 할 필욘 없다. 그냥 잠깐 일한거 돈 안받는걸로하고  끝냈음 
+회사의 직원이면 팀이 어떻게 돌던 회사가 잘 돌게 하기위해 고민하고 노력한다 근데 외주는 아님
 
 
 # [과연 코칭이 가능한가?](https://www.youtube.com/watch?v=Dl3_HenQ60g&list=PLW_uvsSPlijvMY-6Y-0I-bi4tlUFKEuFK&index=513&t=0s)
@@ -2446,3 +2567,11 @@ remind 차냥해
 3. 널체크
 
 
+
+
+]]
+- 생각
+- 썰
+- 근황
+- 코딩
+- 취업
